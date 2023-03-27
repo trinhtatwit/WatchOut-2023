@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c4967ce1ce73a5745b5a03a46fe0a9a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clothMask: {fileID: 11400000, guid: cc2960185f18bae449462f4071f3ba6f, type: 2}
+  - startingMask: {fileID: 11400000, guid: 37527a92d8b2be648959262780b47a44, type: 2}
+  - empty: {fileID: 11400000, guid: abfaa6d5040631b4fa18753483360e05, type: 2}
+  - faceShield: {fileID: 11400000, guid: 5afb7983c69426b498310645ad43d694, type: 2}
+  - gloves: {fileID: 11400000, guid: 3f3d2047412a9f54d950786ac282c94e, type: 2}
+  - n95Mask: {fileID: 11400000, guid: b58c71773de9b384db4166542e2dc380, type: 2}
+  - surgicalMask: {fileID: 11400000, guid: 37b638ff9ccc3cd4fb783cbb1429a995, type: 2}
+  - handSanitizer: {fileID: 11400000, guid: a1d86c1261b9135448156dc746a84dbb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

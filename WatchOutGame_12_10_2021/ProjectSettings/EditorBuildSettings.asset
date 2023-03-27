@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5105feb466ce51b44871371b57698fc9
+  - enabled: 1
+    path: Assets/Scenes/room.unity
+    guid: 69de2b98b846de24d925ab902e904cec
+  - enabled: 1
+    path: Assets/Scenes/room2.unity
+    guid: cf5b47518ae87b840bf090e4f2b2b6cc
+  - enabled: 1
+    path: Assets/Scenes/room3.unity
+    guid: a4074ef4620d42441a5339a427f72e88
+  - enabled: 1
+    path: Assets/Scenes/room4.unity
+    guid: 908aeb214bb4c81438b7eaef96c96f44
+  - enabled: 1
+    path: Assets/Scenes/room5.unity
+    guid: 3065cf1ebb47f5244b7cb2a56f9110ca
+  - enabled: 1
+    path: Assets/Scenes/ItemMenu.unity
+    guid: d38e87cb954abd14a8e4699a762d0356
+  - enabled: 1
+    path: Assets/Scenes/pharmacyLevel.unity
+    guid: b721d0e93bdb6f7458841e3814c0d57f
+  - enabled: 1
+    path: Assets/Scenes/homeLevel.unity
+    guid: bb49718b01864494abfd8199b7ce8e72
+  - enabled: 1
+    path: Assets/Scenes/cityLevel.unity
+    guid: d1cd1dea56411294abdfaf0526ebfb5d
+  - enabled: 1
+    path: Assets/Scenes/ItemMenu 1.unity
+    guid: c201574c4d4b06c4ba2e1b0fd39ad221
+  - enabled: 1
+    path: Assets/Scenes/marketMenu.unity
+    guid: 3471ee9b8e3b1824fb196f576c65ecac
+  - enabled: 1
+    path: Assets/Scenes/schoolLevel.unity
+    guid: 41c8eb9664212d749b2ae45ee7d92cc7
+  - enabled: 1
+    path: Assets/Scenes/Quiz Level.unity
+    guid: ba6fa4bc469b57643b0540ba439b9bdb
+  m_configObjects: {}

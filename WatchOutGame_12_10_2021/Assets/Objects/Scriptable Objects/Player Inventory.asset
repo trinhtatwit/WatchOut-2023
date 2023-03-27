@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4c0755254a1d974f92afbbf7bcec058, type: 3}
+  m_Name: Player Inventory
+  m_EditorClassIdentifier: 
+  counts: 00000000010000000000000000000000000000000000000000000000
+  myMasks: []
+  currentMask: {fileID: 11400000, guid: 37527a92d8b2be648959262780b47a44, type: 2}
+  currentGlove: {fileID: 11400000, guid: abfaa6d5040631b4fa18753483360e05, type: 2}
+  currentFaceShield: {fileID: 11400000, guid: abfaa6d5040631b4fa18753483360e05, type: 2}
+  maskDB: {fileID: 1669894018097031332, guid: 9fe659b46236fe44097027aa8977f477, type: 3}

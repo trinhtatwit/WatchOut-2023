@@ -1,0 +1,6535 @@
+fileFormatVersion: 2
+guid: 134bf2a1e3846564d8f52b462e5d7422
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 279138568640934333
+    second: Walls_TILESET_A4__0
+  - first:
+      213: 1654216118309524733
+    second: Walls_TILESET_A4__1
+  - first:
+      213: 7151916714053859716
+    second: Walls_TILESET_A4__2
+  - first:
+      213: 4482339291783941050
+    second: Walls_TILESET_A4__3
+  - first:
+      213: -7335258074340800076
+    second: Walls_TILESET_A4__4
+  - first:
+      213: 7565494808437258636
+    second: Walls_TILESET_A4__5
+  - first:
+      213: 3534306828914593360
+    second: Walls_TILESET_A4__6
+  - first:
+      213: -7387520876360805994
+    second: Walls_TILESET_A4__7
+  - first:
+      213: -3169991523945530312
+    second: Walls_TILESET_A4__8
+  - first:
+      213: 5732932701905764917
+    second: Walls_TILESET_A4__9
+  - first:
+      213: 4307285964645442252
+    second: Walls_TILESET_A4__10
+  - first:
+      213: 1414604508742406790
+    second: Walls_TILESET_A4__11
+  - first:
+      213: 7308896473898955082
+    second: Walls_TILESET_A4__12
+  - first:
+      213: 7654944519002851153
+    second: Walls_TILESET_A4__13
+  - first:
+      213: 8345330113222394917
+    second: Walls_TILESET_A4__14
+  - first:
+      213: 4679952958741237226
+    second: Walls_TILESET_A4__15
+  - first:
+      213: -2467956738617960129
+    second: Walls_TILESET_A4__16
+  - first:
+      213: -7847266862693388455
+    second: Walls_TILESET_A4__17
+  - first:
+      213: -8489729078858829365
+    second: Walls_TILESET_A4__18
+  - first:
+      213: 668309603673067355
+    second: Walls_TILESET_A4__19
+  - first:
+      213: 5551764819778458135
+    second: Walls_TILESET_A4__20
+  - first:
+      213: -9162713926448115259
+    second: Walls_TILESET_A4__21
+  - first:
+      213: -6900317004117361640
+    second: Walls_TILESET_A4__22
+  - first:
+      213: 9148511244118263629
+    second: Walls_TILESET_A4__23
+  - first:
+      213: -4740106447980983221
+    second: Walls_TILESET_A4__24
+  - first:
+      213: -3873881821967546792
+    second: Walls_TILESET_A4__25
+  - first:
+      213: -7459504018974278113
+    second: Walls_TILESET_A4__26
+  - first:
+      213: -7265560336220597566
+    second: Walls_TILESET_A4__27
+  - first:
+      213: -1167115563471212501
+    second: Walls_TILESET_A4__28
+  - first:
+      213: 5523057450383719928
+    second: Walls_TILESET_A4__29
+  - first:
+      213: 5764092904516778610
+    second: Walls_TILESET_A4__30
+  - first:
+      213: -2586752936044143460
+    second: Walls_TILESET_A4__31
+  - first:
+      213: -6316520530629825648
+    second: Walls_TILESET_A4__32
+  - first:
+      213: 8080025100558546393
+    second: Walls_TILESET_A4__33
+  - first:
+      213: 5204546778555435745
+    second: Walls_TILESET_A4__34
+  - first:
+      213: 6100067623784186073
+    second: Walls_TILESET_A4__35
+  - first:
+      213: 1309357107366724324
+    second: Walls_TILESET_A4__36
+  - first:
+      213: -362011867719189983
+    second: Walls_TILESET_A4__37
+  - first:
+      213: -5746873623154338210
+    second: Walls_TILESET_A4__38
+  - first:
+      213: -7561504251494040599
+    second: Walls_TILESET_A4__39
+  - first:
+      213: 7198599254219284773
+    second: Walls_TILESET_A4__40
+  - first:
+      213: 7689689025196053402
+    second: Walls_TILESET_A4__41
+  - first:
+      213: 7080844153088995301
+    second: Walls_TILESET_A4__42
+  - first:
+      213: 740345780575745924
+    second: Walls_TILESET_A4__43
+  - first:
+      213: -1740337631618343851
+    second: Walls_TILESET_A4__44
+  - first:
+      213: 7195689499930470021
+    second: Walls_TILESET_A4__45
+  - first:
+      213: 4915696341351207202
+    second: Walls_TILESET_A4__46
+  - first:
+      213: 3940766553014507132
+    second: Walls_TILESET_A4__47
+  - first:
+      213: -5126525034446592509
+    second: Walls_TILESET_A4__48
+  - first:
+      213: -6223674069813715385
+    second: Walls_TILESET_A4__49
+  - first:
+      213: -971943438417616328
+    second: Walls_TILESET_A4__50
+  - first:
+      213: 5651451457258189965
+    second: Walls_TILESET_A4__51
+  - first:
+      213: 5307910480202224127
+    second: Walls_TILESET_A4__52
+  - first:
+      213: 9147680136737610886
+    second: Walls_TILESET_A4__53
+  - first:
+      213: -2616119553708913030
+    second: Walls_TILESET_A4__54
+  - first:
+      213: -1209799679572607717
+    second: Walls_TILESET_A4__55
+  - first:
+      213: -8450627033622099841
+    second: Walls_TILESET_A4__56
+  - first:
+      213: 4594392826407720109
+    second: Walls_TILESET_A4__57
+  - first:
+      213: -4655927139358554845
+    second: Walls_TILESET_A4__58
+  - first:
+      213: -6812724939044674463
+    second: Walls_TILESET_A4__59
+  - first:
+      213: -944386204758609888
+    second: Walls_TILESET_A4__60
+  - first:
+      213: 7106815357612352297
+    second: Walls_TILESET_A4__61
+  - first:
+      213: 5069552966252968332
+    second: Walls_TILESET_A4__62
+  - first:
+      213: 7410800655756023175
+    second: Walls_TILESET_A4__63
+  - first:
+      213: -6308146001333937476
+    second: Walls_TILESET_A4__64
+  - first:
+      213: -7020007422905280924
+    second: Walls_TILESET_A4__65
+  - first:
+      213: 1769818414260129706
+    second: Walls_TILESET_A4__66
+  - first:
+      213: 4449916624013042667
+    second: Walls_TILESET_A4__67
+  - first:
+      213: 7217490337805863127
+    second: Walls_TILESET_A4__68
+  - first:
+      213: 2825930310736740659
+    second: Walls_TILESET_A4__69
+  - first:
+      213: 5640202636204669138
+    second: Walls_TILESET_A4__70
+  - first:
+      213: 748812308501868110
+    second: Walls_TILESET_A4__71
+  - first:
+      213: -4942598273659664560
+    second: Walls_TILESET_A4__72
+  - first:
+      213: -5956857356193239693
+    second: Walls_TILESET_A4__73
+  - first:
+      213: -1553977097269408342
+    second: Walls_TILESET_A4__74
+  - first:
+      213: -4473424104673881601
+    second: Walls_TILESET_A4__75
+  - first:
+      213: 1081780901963641598
+    second: Walls_TILESET_A4__76
+  - first:
+      213: -4528612547058535488
+    second: Walls_TILESET_A4__77
+  - first:
+      213: 8083008145073169302
+    second: Walls_TILESET_A4__78
+  - first:
+      213: -4581551784032356305
+    second: Walls_TILESET_A4__79
+  - first:
+      213: 7800502154746760394
+    second: Walls_TILESET_A4__80
+  - first:
+      213: -2845316540064572221
+    second: Walls_TILESET_A4__81
+  - first:
+      213: 2720918574704603657
+    second: Walls_TILESET_A4__82
+  - first:
+      213: -7170360166177053212
+    second: Walls_TILESET_A4__83
+  - first:
+      213: 3596497068735636777
+    second: Walls_TILESET_A4__84
+  - first:
+      213: 5286134018031305818
+    second: Walls_TILESET_A4__85
+  - first:
+      213: -3482273895902108138
+    second: Walls_TILESET_A4__86
+  - first:
+      213: -6015511070353290602
+    second: Walls_TILESET_A4__87
+  - first:
+      213: -3641575118540267248
+    second: Walls_TILESET_A4__88
+  - first:
+      213: -1898976062973419241
+    second: Walls_TILESET_A4__89
+  - first:
+      213: 5764216790287764417
+    second: Walls_TILESET_A4__90
+  - first:
+      213: 2606443531654664937
+    second: Walls_TILESET_A4__91
+  - first:
+      213: 4599606460867994936
+    second: Walls_TILESET_A4__92
+  - first:
+      213: -1803569949105991353
+    second: Walls_TILESET_A4__93
+  - first:
+      213: 3606560636912137384
+    second: Walls_TILESET_A4__94
+  - first:
+      213: 3712965221719907360
+    second: Walls_TILESET_A4__95
+  - first:
+      213: 2568287492191629625
+    second: Walls_TILESET_A4__96
+  - first:
+      213: 3453533588005997727
+    second: Walls_TILESET_A4__97
+  - first:
+      213: 7536166279360519811
+    second: Walls_TILESET_A4__98
+  - first:
+      213: 7428621601227453153
+    second: Walls_TILESET_A4__99
+  - first:
+      213: 8666656174601941738
+    second: Walls_TILESET_A4__100
+  - first:
+      213: -4460461559749374534
+    second: Walls_TILESET_A4__101
+  - first:
+      213: 4209290348882216285
+    second: Walls_TILESET_A4__102
+  - first:
+      213: -3506863686363715880
+    second: Walls_TILESET_A4__103
+  - first:
+      213: 8077107309609511735
+    second: Walls_TILESET_A4__104
+  - first:
+      213: 7345528708652696614
+    second: Walls_TILESET_A4__105
+  - first:
+      213: 6104165211146950263
+    second: Walls_TILESET_A4__106
+  - first:
+      213: 6597633816887263954
+    second: Walls_TILESET_A4__107
+  - first:
+      213: -4933138226650908098
+    second: Walls_TILESET_A4__108
+  - first:
+      213: -3783987898251722491
+    second: Walls_TILESET_A4__109
+  - first:
+      213: 5887432177790670889
+    second: Walls_TILESET_A4__110
+  - first:
+      213: -7770856032356019009
+    second: Walls_TILESET_A4__111
+  - first:
+      213: 4414355451978049117
+    second: Walls_TILESET_A4__112
+  - first:
+      213: -7364402193702906400
+    second: Walls_TILESET_A4__113
+  - first:
+      213: 218192336134925340
+    second: Walls_TILESET_A4__114
+  - first:
+      213: 8688807338486539616
+    second: Walls_TILESET_A4__115
+  - first:
+      213: 1054967693797521153
+    second: Walls_TILESET_A4__116
+  - first:
+      213: 4829268320360172250
+    second: Walls_TILESET_A4__117
+  - first:
+      213: 1207680892620123992
+    second: Walls_TILESET_A4__118
+  - first:
+      213: 7245180548950206929
+    second: Walls_TILESET_A4__119
+  - first:
+      213: -7200535398569255622
+    second: Walls_TILESET_A4__120
+  - first:
+      213: 6709590863937765961
+    second: Walls_TILESET_A4__121
+  - first:
+      213: -5674418605702540665
+    second: Walls_TILESET_A4__122
+  - first:
+      213: -1138192793820265024
+    second: Walls_TILESET_A4__123
+  - first:
+      213: 4821277249267575383
+    second: Walls_TILESET_A4__124
+  - first:
+      213: -6757147646806591652
+    second: Walls_TILESET_A4__125
+  - first:
+      213: 3196764052586327438
+    second: Walls_TILESET_A4__126
+  - first:
+      213: -6144958654698178516
+    second: Walls_TILESET_A4__127
+  - first:
+      213: -4525615553771061764
+    second: Walls_TILESET_A4__128
+  - first:
+      213: -2311468813201053327
+    second: Walls_TILESET_A4__129
+  - first:
+      213: -898254542661121407
+    second: Walls_TILESET_A4__130
+  - first:
+      213: 1364179581685677199
+    second: Walls_TILESET_A4__131
+  - first:
+      213: -4714253393164729100
+    second: Walls_TILESET_A4__132
+  - first:
+      213: -2330701851225508041
+    second: Walls_TILESET_A4__133
+  - first:
+      213: 4536111436272273049
+    second: Walls_TILESET_A4__134
+  - first:
+      213: 3783413079170545366
+    second: Walls_TILESET_A4__135
+  - first:
+      213: -5822699363162690493
+    second: Walls_TILESET_A4__136
+  - first:
+      213: -5254464534786452066
+    second: Walls_TILESET_A4__137
+  - first:
+      213: 9042347704131330556
+    second: Walls_TILESET_A4__138
+  - first:
+      213: -5481245528165776048
+    second: Walls_TILESET_A4__139
+  - first:
+      213: -5091543132521835533
+    second: Walls_TILESET_A4__140
+  - first:
+      213: 2034557558949221385
+    second: Walls_TILESET_A4__141
+  - first:
+      213: -4007064229224155530
+    second: Walls_TILESET_A4__142
+  - first:
+      213: -6964665833733300027
+    second: Walls_TILESET_A4__143
+  - first:
+      213: 2604123260014931642
+    second: Walls_TILESET_A4__144
+  - first:
+      213: -1627964619690008014
+    second: Walls_TILESET_A4__145
+  - first:
+      213: -8325088675015892547
+    second: Walls_TILESET_A4__146
+  - first:
+      213: -4214605249959466764
+    second: Walls_TILESET_A4__147
+  - first:
+      213: 2508497849211859415
+    second: Walls_TILESET_A4__148
+  - first:
+      213: -9099040855447864298
+    second: Walls_TILESET_A4__149
+  - first:
+      213: -327955157330561032
+    second: Walls_TILESET_A4__150
+  - first:
+      213: 8787075016395342710
+    second: Walls_TILESET_A4__151
+  - first:
+      213: -2071228293895520046
+    second: Walls_TILESET_A4__152
+  - first:
+      213: 4382493587704254452
+    second: Walls_TILESET_A4__153
+  - first:
+      213: 8058522951471067316
+    second: Walls_TILESET_A4__154
+  - first:
+      213: -7205188262043153212
+    second: Walls_TILESET_A4__155
+  - first:
+      213: 347489987713773820
+    second: Walls_TILESET_A4__156
+  - first:
+      213: -7180560260656243197
+    second: Walls_TILESET_A4__157
+  - first:
+      213: 7842536586797601710
+    second: Walls_TILESET_A4__158
+  - first:
+      213: -8397883600640853010
+    second: Walls_TILESET_A4__159
+  - first:
+      213: -4014263744476245430
+    second: Walls_TILESET_A4__160
+  - first:
+      213: -4600490745938405216
+    second: Walls_TILESET_A4__161
+  - first:
+      213: 866605577448971803
+    second: Walls_TILESET_A4__162
+  - first:
+      213: -3828128514665765063
+    second: Walls_TILESET_A4__163
+  - first:
+      213: 8101815213433622050
+    second: Walls_TILESET_A4__164
+  - first:
+      213: -3492725005419501381
+    second: Walls_TILESET_A4__165
+  - first:
+      213: -26559947410218064
+    second: Walls_TILESET_A4__166
+  - first:
+      213: 5391881592578988879
+    second: Walls_TILESET_A4__167
+  - first:
+      213: 5504464069682878512
+    second: Walls_TILESET_A4__168
+  - first:
+      213: -5821154410175044683
+    second: Walls_TILESET_A4__169
+  - first:
+      213: -9167362926158422277
+    second: Walls_TILESET_A4__170
+  - first:
+      213: 6717249882295806069
+    second: Walls_TILESET_A4__171
+  - first:
+      213: 375587672378799030
+    second: Walls_TILESET_A4__172
+  - first:
+      213: 5097459410568896087
+    second: Walls_TILESET_A4__173
+  - first:
+      213: 5553459776006221199
+    second: Walls_TILESET_A4__174
+  - first:
+      213: 2219426399322313578
+    second: Walls_TILESET_A4__175
+  - first:
+      213: -3026180213587624000
+    second: Walls_TILESET_A4__176
+  - first:
+      213: 3552310650215438502
+    second: Walls_TILESET_A4__177
+  - first:
+      213: 4356809314479709152
+    second: Walls_TILESET_A4__178
+  - first:
+      213: -2511414588384218547
+    second: Walls_TILESET_A4__179
+  - first:
+      213: 5411135070043216474
+    second: Walls_TILESET_A4__180
+  - first:
+      213: -4876502466171846830
+    second: Walls_TILESET_A4__181
+  - first:
+      213: 5573740764390460283
+    second: Walls_TILESET_A4__182
+  - first:
+      213: -263397668579331792
+    second: Walls_TILESET_A4__183
+  - first:
+      213: -7680884907746768352
+    second: Walls_TILESET_A4__184
+  - first:
+      213: -561533212751856214
+    second: Walls_TILESET_A4__185
+  - first:
+      213: -7787112177561307252
+    second: Walls_TILESET_A4__186
+  - first:
+      213: -9079225475873988890
+    second: Walls_TILESET_A4__187
+  - first:
+      213: 340900031295751228
+    second: Walls_TILESET_A4__188
+  - first:
+      213: 5489519612709699628
+    second: Walls_TILESET_A4__189
+  - first:
+      213: 8353306107921737949
+    second: Walls_TILESET_A4__190
+  - first:
+      213: 8198432073812898417
+    second: Walls_TILESET_A4__191
+  - first:
+      213: 3698794817426270195
+    second: Walls_TILESET_A4__192
+  - first:
+      213: 6845753267994055362
+    second: Walls_TILESET_A4__193
+  - first:
+      213: 4610774221231013578
+    second: Walls_TILESET_A4__194
+  - first:
+      213: -3291977687116764946
+    second: Walls_TILESET_A4__195
+  - first:
+      213: 5213119709878457203
+    second: Walls_TILESET_A4__196
+  - first:
+      213: -795483532136855036
+    second: Walls_TILESET_A4__197
+  - first:
+      213: -6099597847993193621
+    second: Walls_TILESET_A4__198
+  - first:
+      213: 4831533296756900521
+    second: Walls_TILESET_A4__199
+  - first:
+      213: 6718976051013585460
+    second: Walls_TILESET_A4__200
+  - first:
+      213: -1458595796661391941
+    second: Walls_TILESET_A4__201
+  - first:
+      213: -4239917928390939131
+    second: Walls_TILESET_A4__202
+  - first:
+      213: 514483301078517382
+    second: Walls_TILESET_A4__203
+  - first:
+      213: 8720919505136633236
+    second: Walls_TILESET_A4__204
+  - first:
+      213: -6118937300347255215
+    second: Walls_TILESET_A4__205
+  - first:
+      213: -3779306027215321348
+    second: Walls_TILESET_A4__206
+  - first:
+      213: 9135164218154023667
+    second: Walls_TILESET_A4__207
+  - first:
+      213: -6545776945331143881
+    second: Walls_TILESET_A4__208
+  - first:
+      213: -8284270239299586135
+    second: Walls_TILESET_A4__209
+  - first:
+      213: 2084303731941497511
+    second: Walls_TILESET_A4__210
+  - first:
+      213: 1154560365802093245
+    second: Walls_TILESET_A4__211
+  - first:
+      213: -5372457699776240472
+    second: Walls_TILESET_A4__212
+  - first:
+      213: -122049267561699601
+    second: Walls_TILESET_A4__213
+  - first:
+      213: 9161188154987875751
+    second: Walls_TILESET_A4__214
+  - first:
+      213: 3677434479995992803
+    second: Walls_TILESET_A4__215
+  - first:
+      213: 5521837769824409883
+    second: Walls_TILESET_A4__216
+  - first:
+      213: -5757235667063507382
+    second: Walls_TILESET_A4__217
+  - first:
+      213: -2604341979919192913
+    second: Walls_TILESET_A4__218
+  - first:
+      213: 3436841627497365869
+    second: Walls_TILESET_A4__219
+  - first:
+      213: 1587854361119020030
+    second: Walls_TILESET_A4__220
+  - first:
+      213: 3282264615637988926
+    second: Walls_TILESET_A4__221
+  - first:
+      213: -732681974231277420
+    second: Walls_TILESET_A4__222
+  - first:
+      213: -5773707356408374137
+    second: Walls_TILESET_A4__223
+  - first:
+      213: -1895673960990488411
+    second: Walls_TILESET_A4__224
+  - first:
+      213: 8612338169105599787
+    second: Walls_TILESET_A4__225
+  - first:
+      213: 5966128192712183347
+    second: Walls_TILESET_A4__226
+  - first:
+      213: 2143258655957413500
+    second: Walls_TILESET_A4__227
+  - first:
+      213: 1791841736016172949
+    second: Walls_TILESET_A4__228
+  - first:
+      213: -1012930809076638289
+    second: Walls_TILESET_A4__229
+  - first:
+      213: 2765743783487890026
+    second: Walls_TILESET_A4__230
+  - first:
+      213: 4006828036849887214
+    second: Walls_TILESET_A4__231
+  - first:
+      213: -1581184233483077643
+    second: Walls_TILESET_A4__232
+  - first:
+      213: 5310233339426511685
+    second: Walls_TILESET_A4__233
+  - first:
+      213: -2787390559369212801
+    second: Walls_TILESET_A4__234
+  - first:
+      213: -8495747956125306544
+    second: Walls_TILESET_A4__235
+  - first:
+      213: 1244852726225562383
+    second: Walls_TILESET_A4__236
+  - first:
+      213: -7723130595717385197
+    second: Walls_TILESET_A4__237
+  - first:
+      213: -5771319821094138737
+    second: Walls_TILESET_A4__238
+  - first:
+      213: 5603097141966684696
+    second: Walls_TILESET_A4__239
+  - first:
+      213: -4214466743611049270
+    second: Walls_TILESET_A4__240
+  - first:
+      213: 6296637679082644368
+    second: Walls_TILESET_A4__241
+  - first:
+      213: -4693457726952430583
+    second: Walls_TILESET_A4__242
+  - first:
+      213: -823663462643149363
+    second: Walls_TILESET_A4__243
+  - first:
+      213: -284776384218282389
+    second: Walls_TILESET_A4__244
+  - first:
+      213: -1537376365576783344
+    second: Walls_TILESET_A4__245
+  - first:
+      213: 2862315517318931068
+    second: Walls_TILESET_A4__246
+  - first:
+      213: 8474537311907638081
+    second: Walls_TILESET_A4__247
+  - first:
+      213: 6947864748610843415
+    second: Walls_TILESET_A4__248
+  - first:
+      213: 5116080596091293742
+    second: Walls_TILESET_A4__249
+  - first:
+      213: 55414405690305565
+    second: Walls_TILESET_A4__250
+  - first:
+      213: -7115794204844076273
+    second: Walls_TILESET_A4__251
+  - first:
+      213: -20462989881022243
+    second: Walls_TILESET_A4__252
+  - first:
+      213: -2898365328992443144
+    second: Walls_TILESET_A4__253
+  - first:
+      213: -4479505756692351361
+    second: Walls_TILESET_A4__254
+  - first:
+      213: 4303421057432261760
+    second: Walls_TILESET_A4__255
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db134fa9c03bfd300800000000000000
+      internalID: 279138568640934333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df490919bc4f4f610800000000000000
+      internalID: 1654216118309524733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fb54eb56b04360800000000000000
+      internalID: 7151916714053859716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbce8166d7743e30800000000000000
+      internalID: 4482339291783941050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c91f25ade33a90800000000000000
+      internalID: -7335258074340800076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89f6fec1790ef860800000000000000
+      internalID: 7565494808437258636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e01b8d5516c0130800000000000000
+      internalID: 3534306828914593360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915bb957e04a7990800000000000000
+      internalID: -7387520876360805994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c3a3a118de104d0800000000000000
+      internalID: -3169991523945530312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53240520be77f8f40800000000000000
+      internalID: 5732932701905764917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2a7bc83cd86cb30800000000000000
+      internalID: 4307285964645442252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682d1494e4fa1a310800000000000000
+      internalID: 1414604508742406790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a413ada6e9a6e6560800000000000000
+      internalID: 7308896473898955082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1570d7e7b73db3a60800000000000000
+      internalID: 7654944519002851153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524cdf3c58190d370800000000000000
+      internalID: 8345330113222394917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 675
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed4f47ab6882f040800000000000000
+      internalID: 4679952958741237226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3915a90c6e00cdd0800000000000000
+      internalID: -2467956738617960129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f677f6d58e81390800000000000000
+      internalID: -7847266862693388455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b05f126c6e2a80800000000000000
+      internalID: -8489729078858829365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f4aee2b00564900800000000000000
+      internalID: 668309603673067355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712d76760b4db0d40800000000000000
+      internalID: 5551764819778458135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11983ea3087d080800000000000000
+      internalID: -9162713926448115259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3ff38e362d30a0800000000000000
+      internalID: -6900317004117361640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d470651718a06fe70800000000000000
+      internalID: 9148511244118263629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c0e8abc42c73eb0800000000000000
+      internalID: -4740106447980983221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85608c3f1053d3ac0800000000000000
+      internalID: -3873881821967546792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e707ced948a7890800000000000000
+      internalID: -7459504018974278113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c257696e5b8b2b90800000000000000
+      internalID: -7265560336220597566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20f77324929dcfe0800000000000000
+      internalID: -1167115563471212501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd323c1d77d5ac40800000000000000
+      internalID: 5523057450383719928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a721a05fb2eff40800000000000000
+      internalID: 5764092904516778610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 630
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cd36de8e10a1cd0800000000000000
+      internalID: -2586752936044143460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09be8533b063758a0800000000000000
+      internalID: -6316520530629825648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d53807e404022070800000000000000
+      internalID: 8080025100558546393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea43b068b34a3840800000000000000
+      internalID: 5204546778555435745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0848d2f2bc7a450800000000000000
+      internalID: 6100067623784186073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e20ab41a55cb2210800000000000000
+      internalID: 1309357107366724324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a3f14df10e9faf0800000000000000
+      internalID: -362011867719189983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d2d253e00f30b0800000000000000
+      internalID: -5746873623154338210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb771222f3201790800000000000000
+      internalID: -7561504251494040599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e124c1ef86e360800000000000000
+      internalID: 7198599254219284773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d70c3d6347ba60800000000000000
+      internalID: 7689689025196053402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef65c6cd36344260800000000000000
+      internalID: 7080844153088995301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873d2e909c364a00800000000000000
+      internalID: 740345780575745924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cd42e052419d7e0800000000000000
+      internalID: -1740337631618343851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5862d5dc9793cd360800000000000000
+      internalID: 7195689499930470021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211de927cf083440800000000000000
+      internalID: 4915696341351207202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 585
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769b270d4a60b630800000000000000
+      internalID: 3940766553014507132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306e9a584acead8b0800000000000000
+      internalID: -5126525034446592509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e91fe686111a9a0800000000000000
+      internalID: -6223674069813715385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a853a796f282f0800000000000000
+      internalID: -971943438417616328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84fc3f582dfd6e40800000000000000
+      internalID: 5651451457258189965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1d600957c79a940800000000000000
+      internalID: 5307910480202224127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c542d2e9613fe70800000000000000
+      internalID: 9147680136737610886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e0a3f602da1bbd0800000000000000
+      internalID: -2616119553708913030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d71b9e99de53fe0800000000000000
+      internalID: -1209799679572607717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7844ab7c7759ba80800000000000000
+      internalID: -8450627033622099841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da492a8feef82cf30800000000000000
+      internalID: 4594392826407720109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325ce665fe2d26fb0800000000000000
+      internalID: -4655927139358554845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642cc763c65471a0800000000000000
+      internalID: -6812724939044674463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020759610cdd4e2f0800000000000000
+      internalID: -944386204758609888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92366ca0aea70a260800000000000000
+      internalID: 7106815357612352297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89398b209baa5640800000000000000
+      internalID: 5069552966252968332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785d19baee378d660800000000000000
+      internalID: 7410800655756023175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba903f32a6f478a0800000000000000
+      internalID: -6308146001333937476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661025417ce39e90800000000000000
+      internalID: -7020007422905280924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf8bea8878af8810800000000000000
+      internalID: 1769818414260129706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be32766c79741cd30800000000000000
+      internalID: 4449916624013042667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d88bbae83da92460800000000000000
+      internalID: 7217490337805863127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331097b25a8b73720800000000000000
+      internalID: 2825930310736740659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d873302a66064e40800000000000000
+      internalID: 5640202636204669138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea1b3c3d0546a00800000000000000
+      internalID: 748812308501868110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0578e0f9e0d586bb0800000000000000
+      internalID: -4942598273659664560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ded6a9bcdf45da0800000000000000
+      internalID: -5956857356193239693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0a28301a2f6ae0800000000000000
+      internalID: -1553977097269408342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15e3f5a743be1c0800000000000000
+      internalID: -4473424104673881601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef23852bff1430f00800000000000000
+      internalID: 1081780901963641598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f23fc1e22721c0800000000000000
+      internalID: -4528612547058535488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693eca3151d9c2070800000000000000
+      internalID: 8083008145073169302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 495
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28b1b03dee0b60c0800000000000000
+      internalID: -4581551784032356305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc89538163f04c60800000000000000
+      internalID: 7800502154746760394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc58e39ea76388d0800000000000000
+      internalID: -2845316540064572221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b7041705a2c520800000000000000
+      internalID: 2720918574704603657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e7674b63cd7c90800000000000000
+      internalID: -7170360166177053212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925a8b9670359e130800000000000000
+      internalID: 3596497068735636777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a544ddbd1ee1c5940800000000000000
+      internalID: 5286134018031305818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a320775a7cafc0800000000000000
+      internalID: -3482273895902108138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a89259d8c948ca0800000000000000
+      internalID: -6015511070353290602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a18c39b6867dc0800000000000000
+      internalID: -3641575118540267248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ef79f45b75a5e0800000000000000
+      internalID: -1898976062973419241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc17171ac9eff40800000000000000
+      internalID: 5764216790287764417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2146f1592fb2420800000000000000
+      internalID: 2606443531654664937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e0a6d4b515df30800000000000000
+      internalID: 4599606460867994936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d7ffdfae68f6e0800000000000000
+      internalID: -1803569949105991353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4fd087ac31d0230800000000000000
+      internalID: 3606560636912137384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 450
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c9eff623a178330800000000000000
+      internalID: 3712965221719907360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9313925edd364a320800000000000000
+      internalID: 2568287492191629625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c4afc208a6def20800000000000000
+      internalID: 3453533588005997727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e9f818d47d59860800000000000000
+      internalID: 7536166279360519811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b4ffdcf3c71760800000000000000
+      internalID: 7428621601227453153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae238957fd5264870800000000000000
+      internalID: 8666656174601941738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd8adc08d14912c0800000000000000
+      internalID: -4460461559749374534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55ca9145476a6a30800000000000000
+      internalID: 4209290348882216285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e292be0e155fc0800000000000000
+      internalID: -3506863686363715880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6cf1cd46a71070800000000000000
+      internalID: 8077107309609511735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6248da6317f80f560800000000000000
+      internalID: 7345528708652696614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77616b41be956b450800000000000000
+      internalID: 6104165211146950263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28bad20018f8b50800000000000000
+      internalID: 6597633816887263954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a72947be8f98bb0800000000000000
+      internalID: -4933138226650908098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50144521e039c7bc0800000000000000
+      internalID: -3783987898251722491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928da6c6f5c54b150800000000000000
+      internalID: 5887432177790670889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 405
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d7be3c9f582490800000000000000
+      internalID: -7770856032356019009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e57335e0f24d30800000000000000
+      internalID: 4414355451978049117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e51b3d19336cc990800000000000000
+      internalID: -7364402193702906400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce80016cc270300800000000000000
+      internalID: 218192336134925340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0652c443d38d49870800000000000000
+      internalID: 8688807338486539616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107705e278ff3ae00800000000000000
+      internalID: 1054967693797521153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada8d1863f1050340800000000000000
+      internalID: 4829268320360172250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f26ae8f5b82c010800000000000000
+      internalID: 1207680892620123992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d92fb9925d0c8460800000000000000
+      internalID: 7245180548950206929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d57af743f821c90800000000000000
+      internalID: -7200535398569255622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942873187514d1d50800000000000000
+      internalID: 6709590863937765961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829b3ca75a6041b0800000000000000
+      internalID: -5674418605702540665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c50f663fa35430f0800000000000000
+      internalID: -1138192793820265024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a244e2d1e98e240800000000000000
+      internalID: 4821277249267575383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f931240ac932a0800000000000000
+      internalID: -6757147646806591652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6529f7ff2d5c20800000000000000
+      internalID: 3196764052586327438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b04339a8b8baa0800000000000000
+      internalID: -6144958654698178516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd3e7fa1a8c131c0800000000000000
+      internalID: -4525615553771061764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e1cf6c530cefd0800000000000000
+      internalID: -2311468813201053327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8dcaa042c883f0800000000000000
+      internalID: -898254542661121407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c37301a1a8ee210800000000000000
+      internalID: 1364179581685677199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48c3f148b939eb0800000000000000
+      internalID: -4714253393164729100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737bb50d30fa7afd0800000000000000
+      internalID: -2330701851225508041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9968894615183fe30800000000000000
+      internalID: 4536111436272273049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f68e6622618430800000000000000
+      internalID: 3783413079170545366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6bc877cd913fa0800000000000000
+      internalID: -5822699363162690493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e955a2f48546417b0800000000000000
+      internalID: -5254464534786452066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12158145fdc7d70800000000000000
+      internalID: 9042347704131330556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550bf6ab34bee3b0800000000000000
+      internalID: -5481245528165776048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3d4734f743759b0800000000000000
+      internalID: -5091543132521835533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904114002533c3c10800000000000000
+      internalID: 2034557558949221385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6767be8505c0468c0800000000000000
+      internalID: -4007064229224155530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 315
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e6091359885f90800000000000000
+      internalID: -6964665833733300027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea588ce44b32420800000000000000
+      internalID: 2604123260014931642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2322970cdce4869e0800000000000000
+      internalID: -1627964619690008014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ec0255f7577c80800000000000000
+      internalID: -8325088675015892547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f86ba7ead6b285c0800000000000000
+      internalID: -4214605249959466764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1ba16d089ffc220800000000000000
+      internalID: 2508497849211859415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c734efc86b9b180800000000000000
+      internalID: -9099040855447864298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7fd01a58ed27bf0800000000000000
+      internalID: -327955157330561032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67344f6eb26f1f970800000000000000
+      internalID: 8787075016395342710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d08e9d27d48143e0800000000000000
+      internalID: -2071228293895520046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff0a85d2beb1dc30800000000000000
+      internalID: 4382493587704254452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f3c0bdef95df60800000000000000
+      internalID: 8058522951471067316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc8a1d4377020c90800000000000000
+      internalID: -7205188262043153212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf03fa08d4882d400800000000000000
+      internalID: 347489987713773820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5c47bc76895c90800000000000000
+      internalID: -7180560260656243197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea35312697946dc60800000000000000
+      internalID: 7842536586797601710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 270
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb39beeb59b47b80800000000000000
+      internalID: -8397883600640853010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4293c394687a48c0800000000000000
+      internalID: -4014263744476245430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89edf7a06c720c0800000000000000
+      internalID: -4600490745938405216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ed7346e2dc60c00800000000000000
+      internalID: 866605577448971803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937adc0f561cfdac0800000000000000
+      internalID: -3828128514665765063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0198e20e6f6070800000000000000
+      internalID: 8101815213433622050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8a8d1ec19578fc0800000000000000
+      internalID: -3492725005419501381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b36c595ed3a1aff0800000000000000
+      internalID: -26559947410218064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b53a4bdbfc3da40800000000000000
+      internalID: 5391881592578988879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038595058e8c36c40800000000000000
+      internalID: 5504464069682878512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b361ded7ea173fa0800000000000000
+      internalID: -5821154410175044683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfedd3b4dfbf6c080800000000000000
+      internalID: -9167362926158422277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a6cdad27783d50800000000000000
+      internalID: 6717249882295806069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b377228ffa563500800000000000000
+      internalID: 375587672378799030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e5eef8350ddb640800000000000000
+      internalID: 5097459410568896087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d65472e3ad11d40800000000000000
+      internalID: 5553459776006221199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 225
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a631bb81d8cfcce10800000000000000
+      internalID: 2219426399322313578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3bce0129d006d0800000000000000
+      internalID: -3026180213587624000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89de527b75c4130800000000000000
+      internalID: 3552310650215438502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb1da7fcfe767c30800000000000000
+      internalID: 4356809314479709152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ff97ecb9a52dd0800000000000000
+      internalID: -2511414588384218547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a95914da6381b40800000000000000
+      internalID: 5411135070043216474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb28508de235cb0800000000000000
+      internalID: -4876502466171846830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8b9bb1b7e95d40800000000000000
+      internalID: 5573740764390460283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031b9a94739385cf0800000000000000
+      internalID: -263397668579331792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a48191fd3086590800000000000000
+      internalID: -7680884907746768352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7754a4880538f0800000000000000
+      internalID: -561533212751856214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f65e7bbe9ee390800000000000000
+      internalID: -7787112177561307252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee9ad2988c100280800000000000000
+      internalID: -9079225475873988890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c348d45b5ce1bb400800000000000000
+      internalID: 340900031295751228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c200a17c001be2c40800000000000000
+      internalID: 5489519612709699628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a6ceb5a7ece370800000000000000
+      internalID: 8353306107921737949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 180
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17279c2b88ea6c170800000000000000
+      internalID: 8198432073812898417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7afb51a42c45330800000000000000
+      internalID: 3698794817426270195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c251cea350010f50800000000000000
+      internalID: 6845753267994055362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb00ca9b2ccff30800000000000000
+      internalID: 4610774221231013578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8a4e63cbb8052d0800000000000000
+      internalID: -3291977687116764946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37394ee71c8b85840800000000000000
+      internalID: 5213119709878457203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a4f4231ffd5f4f0800000000000000
+      internalID: -795483532136855036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be0a50310e95ba0800000000000000
+      internalID: -6099597847993193621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2caa15fed0d0340800000000000000
+      internalID: 4831533296756900521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a8507ae199e3d50800000000000000
+      internalID: 6718976051013585460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdae15d9d602cbe0800000000000000
+      internalID: -1458595796661391941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ea271bb19c825c0800000000000000
+      internalID: -4239917928390939131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__203
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c7a326dfc32700800000000000000
+      internalID: 514483301078517382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495c172a51ee60970800000000000000
+      internalID: 8720919505136633236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1560ae1e1fa251ba0800000000000000
+      internalID: -6118937300347255215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6865e11353d8bc0800000000000000
+      internalID: -3779306027215321348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__207
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 135
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fafdebc47f96ce70800000000000000
+      internalID: 9135164218154023667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b789a9c8ab825a0800000000000000
+      internalID: -6545776945331143881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7353bfb1c580d80800000000000000
+      internalID: -8284270239299586135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad46a733fecec10800000000000000
+      internalID: 2084303731941497511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf06b1982d50010800000000000000
+      internalID: 1154560365802093245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a46602cf223175b0800000000000000
+      internalID: -5372457699776240472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe663e976d46e4ef0800000000000000
+      internalID: -122049267561699601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad8192c614132f70800000000000000
+      internalID: 9161188154987875751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea3fe8fc2fd80330800000000000000
+      internalID: 3677434479995992803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1918b9123281ac40800000000000000
+      internalID: 5521837769824409883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a467878f9a03a10b0800000000000000
+      internalID: -5757235667063507382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac674584c48bdbd0800000000000000
+      internalID: -2604341979919192913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__219
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d618144404d12bf20800000000000000
+      internalID: 3436841627497365869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__220
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3dd8de021390610800000000000000
+      internalID: 1587854361119020030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__221
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36bfe91742fc8d20800000000000000
+      internalID: 3282264615637988926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__222
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ec9850adf4d5f0800000000000000
+      internalID: -732681974231277420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__223
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 90
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c1830ffbbafdfa0800000000000000
+      internalID: -5773707356408374137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a84431839631b5e0800000000000000
+      internalID: -1895673960990488411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc3174feb258770800000000000000
+      internalID: 8612338169105599787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8d0b3bf1fbc250800000000000000
+      internalID: 5966128192712183347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e6f1264626ebd10800000000000000
+      internalID: 2143258655957413500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59796f8b096edd810800000000000000
+      internalID: 1791841736016172949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad10febbc851f1f0800000000000000
+      internalID: -1012930809076638289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626a8a4155e16620800000000000000
+      internalID: 2765743783487890026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76384dedc1b9730800000000000000
+      internalID: 4006828036849887214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7face21518e0ae0800000000000000
+      internalID: -1581184233483077643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__233
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b14fe561db1b940800000000000000
+      internalID: 5310233339426511685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4582fd033159d0800000000000000
+      internalID: -2787390559369212801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05176ed0f3a091a80800000000000000
+      internalID: -8495747956125306544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__236
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be95085fa964110800000000000000
+      internalID: 1244852726225562383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314705064ade1d490800000000000000
+      internalID: -7723130595717385197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__238
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4382533728efa0800000000000000
+      internalID: -5771319821094138737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__239
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 45
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8124ee40a2332cd40800000000000000
+      internalID: 5603097141966684696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acabd5d63d43385c0800000000000000
+      internalID: -4214466743611049270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093af0dab96226750800000000000000
+      internalID: 6296637679082644368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90420b8701d7ddeb0800000000000000
+      internalID: -4693457726952430583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5dfa6d172c194f0800000000000000
+      internalID: -823663462643149363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66cf3a23654c0cf0800000000000000
+      internalID: -284776384218282389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af6b347542aaae0800000000000000
+      internalID: -1537376365576783344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7222ec3cccf8b720800000000000000
+      internalID: 2862315517318931068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6c0009ca9b9570800000000000000
+      internalID: 8474537311907638081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71378607d26cb6060800000000000000
+      internalID: 6947864748610843415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205a4c2238fff640800000000000000
+      internalID: 5116080596091293742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2c9ebb1fd4c000800000000000000
+      internalID: 55414405690305565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__251
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035c7d2fde9f3d90800000000000000
+      internalID: -7115794204844076273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86915e40d47bff0800000000000000
+      internalID: -20462989881022243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4e818e610f6c7d0800000000000000
+      internalID: -2898365328992443144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__254
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76f80b6f3995d1c0800000000000000
+      internalID: -4479505756692351361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls_TILESET_A4__255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0849f27b6a2d8bb30800000000000000
+      internalID: 4303421057432261760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Walls_TILESET_A4__177: 3552310650215438502
+      Walls_TILESET_A4__69: 2825930310736740659
+      Walls_TILESET_A4__211: 1154560365802093245
+      Walls_TILESET_A4__52: 5307910480202224127
+      Walls_TILESET_A4__38: -5746873623154338210
+      Walls_TILESET_A4__178: 4356809314479709152
+      Walls_TILESET_A4__188: 340900031295751228
+      Walls_TILESET_A4__112: 4414355451978049117
+      Walls_TILESET_A4__227: 2143258655957413500
+      Walls_TILESET_A4__48: -5126525034446592509
+      Walls_TILESET_A4__132: -4714253393164729100
+      Walls_TILESET_A4__142: -4007064229224155530
+      Walls_TILESET_A4__252: -20462989881022243
+      Walls_TILESET_A4__212: -5372457699776240472
+      Walls_TILESET_A4__233: 5310233339426511685
+      Walls_TILESET_A4__59: -6812724939044674463
+      Walls_TILESET_A4__89: -1898976062973419241
+      Walls_TILESET_A4__127: -6144958654698178516
+      Walls_TILESET_A4__169: -5821154410175044683
+      Walls_TILESET_A4__27: -7265560336220597566
+      Walls_TILESET_A4__155: -7205188262043153212
+      Walls_TILESET_A4__138: 9042347704131330556
+      Walls_TILESET_A4__128: -4525615553771061764
+      Walls_TILESET_A4__143: -6964665833733300027
+      Walls_TILESET_A4__40: 7198599254219284773
+      Walls_TILESET_A4__82: 2720918574704603657
+      Walls_TILESET_A4__108: -4933138226650908098
+      Walls_TILESET_A4__217: -5757235667063507382
+      Walls_TILESET_A4__110: 5887432177790670889
+      Walls_TILESET_A4__221: 3282264615637988926
+      Walls_TILESET_A4__19: 668309603673067355
+      Walls_TILESET_A4__64: -6308146001333937476
+      Walls_TILESET_A4__228: 1791841736016172949
+      Walls_TILESET_A4__224: -1895673960990488411
+      Walls_TILESET_A4__119: 7245180548950206929
+      Walls_TILESET_A4__98: 7536166279360519811
+      Walls_TILESET_A4__61: 7106815357612352297
+      Walls_TILESET_A4__205: -6118937300347255215
+      Walls_TILESET_A4__129: -2311468813201053327
+      Walls_TILESET_A4__33: 8080025100558546393
+      Walls_TILESET_A4__198: -6099597847993193621
+      Walls_TILESET_A4__247: 8474537311907638081
+      Walls_TILESET_A4__85: 5286134018031305818
+      Walls_TILESET_A4__46: 4915696341351207202
+      Walls_TILESET_A4__249: 5116080596091293742
+      Walls_TILESET_A4__251: -7115794204844076273
+      Walls_TILESET_A4__6: 3534306828914593360
+      Walls_TILESET_A4__37: -362011867719189983
+      Walls_TILESET_A4__200: 6718976051013585460
+      Walls_TILESET_A4__151: 8787075016395342710
+      Walls_TILESET_A4__180: 5411135070043216474
+      Walls_TILESET_A4__216: 5521837769824409883
+      Walls_TILESET_A4__14: 8345330113222394917
+      Walls_TILESET_A4__148: 2508497849211859415
+      Walls_TILESET_A4__15: 4679952958741237226
+      Walls_TILESET_A4__67: 4449916624013042667
+      Walls_TILESET_A4__230: 2765743783487890026
+      Walls_TILESET_A4__30: 5764092904516778610
+      Walls_TILESET_A4__120: -7200535398569255622
+      Walls_TILESET_A4__246: 2862315517318931068
+      Walls_TILESET_A4__97: 3453533588005997727
+      Walls_TILESET_A4__194: 4610774221231013578
+      Walls_TILESET_A4__43: 740345780575745924
+      Walls_TILESET_A4__179: -2511414588384218547
+      Walls_TILESET_A4__111: -7770856032356019009
+      Walls_TILESET_A4__57: 4594392826407720109
+      Walls_TILESET_A4__171: 6717249882295806069
+      Walls_TILESET_A4__134: 4536111436272273049
+      Walls_TILESET_A4__193: 6845753267994055362
+      Walls_TILESET_A4__203: 514483301078517382
+      Walls_TILESET_A4__240: -4214466743611049270
+      Walls_TILESET_A4__223: -5773707356408374137
+      Walls_TILESET_A4__41: 7689689025196053402
+      Walls_TILESET_A4__168: 5504464069682878512
+      Walls_TILESET_A4__133: -2330701851225508041
+      Walls_TILESET_A4__157: -7180560260656243197
+      Walls_TILESET_A4__49: -6223674069813715385
+      Walls_TILESET_A4__34: 5204546778555435745
+      Walls_TILESET_A4__131: 1364179581685677199
+      Walls_TILESET_A4__158: 7842536586797601710
+      Walls_TILESET_A4__222: -732681974231277420
+      Walls_TILESET_A4__5: 7565494808437258636
+      Walls_TILESET_A4__182: 5573740764390460283
+      Walls_TILESET_A4__220: 1587854361119020030
+      Walls_TILESET_A4__231: 4006828036849887214
+      Walls_TILESET_A4__175: 2219426399322313578
+      Walls_TILESET_A4__242: -4693457726952430583
+      Walls_TILESET_A4__20: 5551764819778458135
+      Walls_TILESET_A4__140: -5091543132521835533
+      Walls_TILESET_A4__215: 3677434479995992803
+      Walls_TILESET_A4__92: 4599606460867994936
+      Walls_TILESET_A4__45: 7195689499930470021
+      Walls_TILESET_A4__214: 9161188154987875751
+      Walls_TILESET_A4__32: -6316520530629825648
+      Walls_TILESET_A4__104: 8077107309609511735
+      Walls_TILESET_A4__135: 3783413079170545366
+      Walls_TILESET_A4__204: 8720919505136633236
+      Walls_TILESET_A4__149: -9099040855447864298
+      Walls_TILESET_A4__152: -2071228293895520046
+      Walls_TILESET_A4__164: 8101815213433622050
+      Walls_TILESET_A4__76: 1081780901963641598
+      Walls_TILESET_A4__54: -2616119553708913030
+      Walls_TILESET_A4__68: 7217490337805863127
+      Walls_TILESET_A4__241: 6296637679082644368
+      Walls_TILESET_A4__88: -3641575118540267248
+      Walls_TILESET_A4__213: -122049267561699601
+      Walls_TILESET_A4__106: 6104165211146950263
+      Walls_TILESET_A4__58: -4655927139358554845
+      Walls_TILESET_A4__186: -7787112177561307252
+      Walls_TILESET_A4__121: 6709590863937765961
+      Walls_TILESET_A4__136: -5822699363162690493
+      Walls_TILESET_A4__229: -1012930809076638289
+      Walls_TILESET_A4__208: -6545776945331143881
+      Walls_TILESET_A4__56: -8450627033622099841
+      Walls_TILESET_A4__31: -2586752936044143460
+      Walls_TILESET_A4__83: -7170360166177053212
+      Walls_TILESET_A4__248: 6947864748610843415
+      Walls_TILESET_A4__218: -2604341979919192913
+      Walls_TILESET_A4__42: 7080844153088995301
+      Walls_TILESET_A4__117: 4829268320360172250
+      Walls_TILESET_A4__170: -9167362926158422277
+      Walls_TILESET_A4__225: 8612338169105599787
+      Walls_TILESET_A4__24: -4740106447980983221
+      Walls_TILESET_A4__195: -3291977687116764946
+      Walls_TILESET_A4__7: -7387520876360805994
+      Walls_TILESET_A4__23: 9148511244118263629
+      Walls_TILESET_A4__105: 7345528708652696614
+      Walls_TILESET_A4__39: -7561504251494040599
+      Walls_TILESET_A4__192: 3698794817426270195
+      Walls_TILESET_A4__109: -3783987898251722491
+      Walls_TILESET_A4__86: -3482273895902108138
+      Walls_TILESET_A4__101: -4460461559749374534
+      Walls_TILESET_A4__219: 3436841627497365869
+      Walls_TILESET_A4__183: -263397668579331792
+      Walls_TILESET_A4__196: 5213119709878457203
+      Walls_TILESET_A4__78: 8083008145073169302
+      Walls_TILESET_A4__166: -26559947410218064
+      Walls_TILESET_A4__107: 6597633816887263954
+      Walls_TILESET_A4__70: 5640202636204669138
+      Walls_TILESET_A4__206: -3779306027215321348
+      Walls_TILESET_A4__87: -6015511070353290602
+      Walls_TILESET_A4__81: -2845316540064572221
+      Walls_TILESET_A4__13: 7654944519002851153
+      Walls_TILESET_A4__91: 2606443531654664937
+      Walls_TILESET_A4__165: -3492725005419501381
+      Walls_TILESET_A4__150: -327955157330561032
+      Walls_TILESET_A4__17: -7847266862693388455
+      Walls_TILESET_A4__199: 4831533296756900521
+      Walls_TILESET_A4__184: -7680884907746768352
+      Walls_TILESET_A4__115: 8688807338486539616
+      Walls_TILESET_A4__79: -4581551784032356305
+      Walls_TILESET_A4__113: -7364402193702906400
+      Walls_TILESET_A4__74: -1553977097269408342
+      Walls_TILESET_A4__254: -4479505756692351361
+      Walls_TILESET_A4__159: -8397883600640853010
+      Walls_TILESET_A4__11: 1414604508742406790
+      Walls_TILESET_A4__3: 4482339291783941050
+      Walls_TILESET_A4__90: 5764216790287764417
+      Walls_TILESET_A4__156: 347489987713773820
+      Walls_TILESET_A4__209: -8284270239299586135
+      Walls_TILESET_A4__237: -7723130595717385197
+      Walls_TILESET_A4__1: 1654216118309524733
+      Walls_TILESET_A4__187: -9079225475873988890
+      Walls_TILESET_A4__116: 1054967693797521153
+      Walls_TILESET_A4__235: -8495747956125306544
+      Walls_TILESET_A4__53: 9147680136737610886
+      Walls_TILESET_A4__65: -7020007422905280924
+      Walls_TILESET_A4__189: 5489519612709699628
+      Walls_TILESET_A4__100: 8666656174601941738
+      Walls_TILESET_A4__139: -5481245528165776048
+      Walls_TILESET_A4__118: 1207680892620123992
+      Walls_TILESET_A4__201: -1458595796661391941
+      Walls_TILESET_A4__207: 9135164218154023667
+      Walls_TILESET_A4__144: 2604123260014931642
+      Walls_TILESET_A4__176: -3026180213587624000
+      Walls_TILESET_A4__102: 4209290348882216285
+      Walls_TILESET_A4__21: -9162713926448115259
+      Walls_TILESET_A4__12: 7308896473898955082
+      Walls_TILESET_A4__16: -2467956738617960129
+      Walls_TILESET_A4__63: 7410800655756023175
+      Walls_TILESET_A4__47: 3940766553014507132
+      Walls_TILESET_A4__130: -898254542661121407
+      Walls_TILESET_A4__174: 5553459776006221199
+      Walls_TILESET_A4__124: 4821277249267575383
+      Walls_TILESET_A4__94: 3606560636912137384
+      Walls_TILESET_A4__2: 7151916714053859716
+      Walls_TILESET_A4__103: -3506863686363715880
+      Walls_TILESET_A4__96: 2568287492191629625
+      Walls_TILESET_A4__137: -5254464534786452066
+      Walls_TILESET_A4__93: -1803569949105991353
+      Walls_TILESET_A4__163: -3828128514665765063
+      Walls_TILESET_A4__190: 8353306107921737949
+      Walls_TILESET_A4__191: 8198432073812898417
+      Walls_TILESET_A4__210: 2084303731941497511
+      Walls_TILESET_A4__243: -823663462643149363
+      Walls_TILESET_A4__122: -5674418605702540665
+      Walls_TILESET_A4__244: -284776384218282389
+      Walls_TILESET_A4__234: -2787390559369212801
+      Walls_TILESET_A4__253: -2898365328992443144
+      Walls_TILESET_A4__75: -4473424104673881601
+      Walls_TILESET_A4__73: -5956857356193239693
+      Walls_TILESET_A4__36: 1309357107366724324
+      Walls_TILESET_A4__60: -944386204758609888
+      Walls_TILESET_A4__95: 3712965221719907360
+      Walls_TILESET_A4__202: -4239917928390939131
+      Walls_TILESET_A4__28: -1167115563471212501
+      Walls_TILESET_A4__51: 5651451457258189965
+      Walls_TILESET_A4__29: 5523057450383719928
+      Walls_TILESET_A4__162: 866605577448971803
+      Walls_TILESET_A4__126: 3196764052586327438
+      Walls_TILESET_A4__147: -4214605249959466764
+      Walls_TILESET_A4__10: 4307285964645442252
+      Walls_TILESET_A4__18: -8489729078858829365
+      Walls_TILESET_A4__62: 5069552966252968332
+      Walls_TILESET_A4__9: 5732932701905764917
+      Walls_TILESET_A4__172: 375587672378799030
+      Walls_TILESET_A4__71: 748812308501868110
+      Walls_TILESET_A4__185: -561533212751856214
+      Walls_TILESET_A4__22: -6900317004117361640
+      Walls_TILESET_A4__239: 5603097141966684696
+      Walls_TILESET_A4__197: -795483532136855036
+      Walls_TILESET_A4__50: -971943438417616328
+      Walls_TILESET_A4__245: -1537376365576783344
+      Walls_TILESET_A4__236: 1244852726225562383
+      Walls_TILESET_A4__66: 1769818414260129706
+      Walls_TILESET_A4__250: 55414405690305565
+      Walls_TILESET_A4__80: 7800502154746760394
+      Walls_TILESET_A4__161: -4600490745938405216
+      Walls_TILESET_A4__99: 7428621601227453153
+      Walls_TILESET_A4__114: 218192336134925340
+      Walls_TILESET_A4__55: -1209799679572607717
+      Walls_TILESET_A4__226: 5966128192712183347
+      Walls_TILESET_A4__141: 2034557558949221385
+      Walls_TILESET_A4__154: 8058522951471067316
+      Walls_TILESET_A4__26: -7459504018974278113
+      Walls_TILESET_A4__44: -1740337631618343851
+      Walls_TILESET_A4__160: -4014263744476245430
+      Walls_TILESET_A4__232: -1581184233483077643
+      Walls_TILESET_A4__25: -3873881821967546792
+      Walls_TILESET_A4__8: -3169991523945530312
+      Walls_TILESET_A4__167: 5391881592578988879
+      Walls_TILESET_A4__146: -8325088675015892547
+      Walls_TILESET_A4__77: -4528612547058535488
+      Walls_TILESET_A4__84: 3596497068735636777
+      Walls_TILESET_A4__0: 279138568640934333
+      Walls_TILESET_A4__125: -6757147646806591652
+      Walls_TILESET_A4__153: 4382493587704254452
+      Walls_TILESET_A4__72: -4942598273659664560
+      Walls_TILESET_A4__35: 6100067623784186073
+      Walls_TILESET_A4__123: -1138192793820265024
+      Walls_TILESET_A4__238: -5771319821094138737
+      Walls_TILESET_A4__173: 5097459410568896087
+      Walls_TILESET_A4__255: 4303421057432261760
+      Walls_TILESET_A4__181: -4876502466171846830
+      Walls_TILESET_A4__4: -7335258074340800076
+      Walls_TILESET_A4__145: -1627964619690008014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

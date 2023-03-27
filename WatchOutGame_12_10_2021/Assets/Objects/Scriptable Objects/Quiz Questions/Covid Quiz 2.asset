@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de48dfb4fc315aa4481ce1e29c4e898f, type: 3}
+  m_Name: Covid Quiz 2
+  m_EditorClassIdentifier: 
+  quizNum: 2
+  questions:
+  - {fileID: 11400000, guid: 8562442bdc3989f439b97288f3e13f0b, type: 2}
+  - {fileID: 11400000, guid: 0bfd87663b0d52a47a9603731558af1d, type: 2}
+  - {fileID: 11400000, guid: 145464976553aaf49a3ee2d117076d35, type: 2}
+  - {fileID: 11400000, guid: 9496df423d2ac4a4aaf3d2cbbef6c17c, type: 2}
+  - {fileID: 11400000, guid: 0381a2c1240feef43976370e955803b9, type: 2}

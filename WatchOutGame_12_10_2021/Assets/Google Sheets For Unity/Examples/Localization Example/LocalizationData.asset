@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 176e37287adab5b4c80a5f9bfc603a4a, type: 3}
+  m_Name: LocalizationData
+  m_EditorClassIdentifier: 
+  missingTranslation: Translation not found for that key.
+  missingKey: Key not found in the localization data.
+  localizationTableName: Localization
+  localizationData:
+  - key: MAINMENU_KEY
+    english: Main Menu
+    spanish: Menu Principal
+  - key: PLAY_BTN_KEY
+    english: Play
+    spanish: Jugar
+  - key: OPTIONS_BTN_KEY
+    english: Options
+    spanish: Opciones
+  - key: EXIT_BTN_KEY
+    english: Exit Game
+    spanish: Salir
+  - key: LANG_ENGLISH_BTN_KEY
+    english: English
+    spanish: "Ingl\xE9s"
+  - key: LANG_SPANISH_BTN_KEY
+    english: Spanish
+    spanish: "Espa\xF1ol"

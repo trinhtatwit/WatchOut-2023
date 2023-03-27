@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8200691f0cbdac046b7770cbffdee6b4, type: 3}
+  m_Name: Gloves
+  m_EditorClassIdentifier: 
+  itemName: Gloves
+  itemDescription: 'a disposable handwear used to protect doctors from spreading
+    dieases between people when coming into contact with them. Can be made from many
+    different types of polymer.  '
+  itemImage: {fileID: 21300000, guid: 3f5fbae439ec622488ebc11beb703490, type: 3}
+  defense: 3
+  durability: 100
+  id: 3

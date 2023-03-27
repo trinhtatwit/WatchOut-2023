@@ -1,0 +1,4935 @@
+fileFormatVersion: 2
+guid: 8b488446d019fcf4c8c9c33e706b60bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1728404021899422978
+    second: Floors_TILESET_A2__0
+  - first:
+      213: 5021696833070959372
+    second: Floors_TILESET_A2__1
+  - first:
+      213: -2085803410490999293
+    second: Floors_TILESET_A2__2
+  - first:
+      213: 8066858120184669535
+    second: Floors_TILESET_A2__3
+  - first:
+      213: 7632787589148621318
+    second: Floors_TILESET_A2__4
+  - first:
+      213: 6547846525459458929
+    second: Floors_TILESET_A2__5
+  - first:
+      213: 6180786946098972912
+    second: Floors_TILESET_A2__6
+  - first:
+      213: 7327771556482255003
+    second: Floors_TILESET_A2__7
+  - first:
+      213: -6090320104690328500
+    second: Floors_TILESET_A2__8
+  - first:
+      213: 889448694972514383
+    second: Floors_TILESET_A2__9
+  - first:
+      213: -5867430464263257423
+    second: Floors_TILESET_A2__10
+  - first:
+      213: 1407602113821941526
+    second: Floors_TILESET_A2__11
+  - first:
+      213: -4076961318063397819
+    second: Floors_TILESET_A2__12
+  - first:
+      213: 8595837021274459411
+    second: Floors_TILESET_A2__13
+  - first:
+      213: 7861620898210215907
+    second: Floors_TILESET_A2__14
+  - first:
+      213: -1916014491942638504
+    second: Floors_TILESET_A2__15
+  - first:
+      213: -6236603628007641412
+    second: Floors_TILESET_A2__16
+  - first:
+      213: 2350002076144024942
+    second: Floors_TILESET_A2__17
+  - first:
+      213: -3907356527568618423
+    second: Floors_TILESET_A2__18
+  - first:
+      213: 6138249475918696082
+    second: Floors_TILESET_A2__19
+  - first:
+      213: 1293309090145037688
+    second: Floors_TILESET_A2__20
+  - first:
+      213: -4130066811705588788
+    second: Floors_TILESET_A2__21
+  - first:
+      213: -8297989446796048622
+    second: Floors_TILESET_A2__22
+  - first:
+      213: 4013722052462280809
+    second: Floors_TILESET_A2__23
+  - first:
+      213: 4397717706877379634
+    second: Floors_TILESET_A2__24
+  - first:
+      213: -8411860587914062419
+    second: Floors_TILESET_A2__25
+  - first:
+      213: 127002092889014225
+    second: Floors_TILESET_A2__26
+  - first:
+      213: 4307667210741200112
+    second: Floors_TILESET_A2__27
+  - first:
+      213: 7774665063034186040
+    second: Floors_TILESET_A2__28
+  - first:
+      213: -3398217706204291807
+    second: Floors_TILESET_A2__29
+  - first:
+      213: -7256615514573530628
+    second: Floors_TILESET_A2__30
+  - first:
+      213: 5544976094925539746
+    second: Floors_TILESET_A2__31
+  - first:
+      213: 8422286520788119501
+    second: Floors_TILESET_A2__32
+  - first:
+      213: 1394027878591753407
+    second: Floors_TILESET_A2__33
+  - first:
+      213: -5199449545828911432
+    second: Floors_TILESET_A2__34
+  - first:
+      213: -7577206710829744519
+    second: Floors_TILESET_A2__35
+  - first:
+      213: -5510074611534515172
+    second: Floors_TILESET_A2__36
+  - first:
+      213: -3329526154189534968
+    second: Floors_TILESET_A2__37
+  - first:
+      213: 5159137971803637050
+    second: Floors_TILESET_A2__38
+  - first:
+      213: -3023734548436862970
+    second: Floors_TILESET_A2__39
+  - first:
+      213: 5578636112676833822
+    second: Floors_TILESET_A2__40
+  - first:
+      213: -4739641533125940473
+    second: Floors_TILESET_A2__41
+  - first:
+      213: 1433381692574868606
+    second: Floors_TILESET_A2__42
+  - first:
+      213: -3635594174227296589
+    second: Floors_TILESET_A2__43
+  - first:
+      213: 5414126184973274038
+    second: Floors_TILESET_A2__44
+  - first:
+      213: 1668094733685109289
+    second: Floors_TILESET_A2__45
+  - first:
+      213: 4121632458344169464
+    second: Floors_TILESET_A2__46
+  - first:
+      213: -5637779145397153735
+    second: Floors_TILESET_A2__47
+  - first:
+      213: -4590733166627524556
+    second: Floors_TILESET_A2__48
+  - first:
+      213: 7611089675421177310
+    second: Floors_TILESET_A2__49
+  - first:
+      213: -6106456216842824202
+    second: Floors_TILESET_A2__50
+  - first:
+      213: 4690831797864163445
+    second: Floors_TILESET_A2__51
+  - first:
+      213: 7587062190676325409
+    second: Floors_TILESET_A2__52
+  - first:
+      213: -2672081042135277948
+    second: Floors_TILESET_A2__53
+  - first:
+      213: -24255423056469231
+    second: Floors_TILESET_A2__54
+  - first:
+      213: 8093466254295213398
+    second: Floors_TILESET_A2__55
+  - first:
+      213: 3387069469753229981
+    second: Floors_TILESET_A2__56
+  - first:
+      213: -5748678772820044084
+    second: Floors_TILESET_A2__57
+  - first:
+      213: -6414939678128517563
+    second: Floors_TILESET_A2__58
+  - first:
+      213: 3545809814098760870
+    second: Floors_TILESET_A2__59
+  - first:
+      213: -6851207667393217111
+    second: Floors_TILESET_A2__60
+  - first:
+      213: -4665434011602857115
+    second: Floors_TILESET_A2__61
+  - first:
+      213: -4581937862374497495
+    second: Floors_TILESET_A2__62
+  - first:
+      213: -3988975708088734895
+    second: Floors_TILESET_A2__63
+  - first:
+      213: 1432484873506391473
+    second: Floors_TILESET_A2__64
+  - first:
+      213: 3850669215531856134
+    second: Floors_TILESET_A2__65
+  - first:
+      213: -5033340179109774944
+    second: Floors_TILESET_A2__66
+  - first:
+      213: -1673720765981097223
+    second: Floors_TILESET_A2__67
+  - first:
+      213: -8890362572594987518
+    second: Floors_TILESET_A2__68
+  - first:
+      213: 4016640055782081312
+    second: Floors_TILESET_A2__69
+  - first:
+      213: -5851112906196714556
+    second: Floors_TILESET_A2__70
+  - first:
+      213: -7767951504132953350
+    second: Floors_TILESET_A2__71
+  - first:
+      213: -7516285464900793679
+    second: Floors_TILESET_A2__72
+  - first:
+      213: 3741072556801215619
+    second: Floors_TILESET_A2__73
+  - first:
+      213: -946157214826584408
+    second: Floors_TILESET_A2__74
+  - first:
+      213: 1686779346683424651
+    second: Floors_TILESET_A2__75
+  - first:
+      213: -5452086379381589237
+    second: Floors_TILESET_A2__76
+  - first:
+      213: 3740202742499115140
+    second: Floors_TILESET_A2__77
+  - first:
+      213: 2566870869385666195
+    second: Floors_TILESET_A2__78
+  - first:
+      213: 107727839727648935
+    second: Floors_TILESET_A2__79
+  - first:
+      213: -7708629570188814786
+    second: Floors_TILESET_A2__80
+  - first:
+      213: 6004724944276063601
+    second: Floors_TILESET_A2__81
+  - first:
+      213: -891594607520785538
+    second: Floors_TILESET_A2__82
+  - first:
+      213: -3386767246793356062
+    second: Floors_TILESET_A2__83
+  - first:
+      213: -1603562340250729709
+    second: Floors_TILESET_A2__84
+  - first:
+      213: -6352660289937050883
+    second: Floors_TILESET_A2__85
+  - first:
+      213: -7778475224236493961
+    second: Floors_TILESET_A2__86
+  - first:
+      213: -3686816587964542893
+    second: Floors_TILESET_A2__87
+  - first:
+      213: -8108279577966625554
+    second: Floors_TILESET_A2__88
+  - first:
+      213: -1491071649202027747
+    second: Floors_TILESET_A2__89
+  - first:
+      213: 3370918534518789778
+    second: Floors_TILESET_A2__90
+  - first:
+      213: -6488024335469856203
+    second: Floors_TILESET_A2__91
+  - first:
+      213: 7489044220023332788
+    second: Floors_TILESET_A2__92
+  - first:
+      213: 9148474908276389421
+    second: Floors_TILESET_A2__93
+  - first:
+      213: 5771267932312889770
+    second: Floors_TILESET_A2__94
+  - first:
+      213: 8985561238002613377
+    second: Floors_TILESET_A2__95
+  - first:
+      213: 6900230973217376464
+    second: Floors_TILESET_A2__96
+  - first:
+      213: -2474825251384700030
+    second: Floors_TILESET_A2__97
+  - first:
+      213: 3674549995425271902
+    second: Floors_TILESET_A2__98
+  - first:
+      213: 3813508580720387473
+    second: Floors_TILESET_A2__99
+  - first:
+      213: 1007268605468734643
+    second: Floors_TILESET_A2__100
+  - first:
+      213: 3243350561399071826
+    second: Floors_TILESET_A2__101
+  - first:
+      213: 8508959288871854834
+    second: Floors_TILESET_A2__102
+  - first:
+      213: -869562615147238468
+    second: Floors_TILESET_A2__103
+  - first:
+      213: 4677132786738052940
+    second: Floors_TILESET_A2__104
+  - first:
+      213: -2092392099910955742
+    second: Floors_TILESET_A2__105
+  - first:
+      213: -1701616379468086041
+    second: Floors_TILESET_A2__106
+  - first:
+      213: 5414930400714017808
+    second: Floors_TILESET_A2__107
+  - first:
+      213: -4532161038611641213
+    second: Floors_TILESET_A2__108
+  - first:
+      213: -935035152863911563
+    second: Floors_TILESET_A2__109
+  - first:
+      213: 4308577399208227405
+    second: Floors_TILESET_A2__110
+  - first:
+      213: 3781177547072650958
+    second: Floors_TILESET_A2__111
+  - first:
+      213: 3425026441453593562
+    second: Floors_TILESET_A2__112
+  - first:
+      213: 6096163978673933914
+    second: Floors_TILESET_A2__113
+  - first:
+      213: 4306726220564182377
+    second: Floors_TILESET_A2__114
+  - first:
+      213: 6664041996556209348
+    second: Floors_TILESET_A2__115
+  - first:
+      213: -4534617282845510784
+    second: Floors_TILESET_A2__116
+  - first:
+      213: -7740803967681413448
+    second: Floors_TILESET_A2__117
+  - first:
+      213: 2639347586149097070
+    second: Floors_TILESET_A2__118
+  - first:
+      213: -4684648698043614009
+    second: Floors_TILESET_A2__119
+  - first:
+      213: 7521596012505018298
+    second: Floors_TILESET_A2__120
+  - first:
+      213: 1236719331498373164
+    second: Floors_TILESET_A2__121
+  - first:
+      213: 1307578647869883507
+    second: Floors_TILESET_A2__122
+  - first:
+      213: -5213075795361402396
+    second: Floors_TILESET_A2__123
+  - first:
+      213: 4000461403540126976
+    second: Floors_TILESET_A2__124
+  - first:
+      213: -8738461898409889361
+    second: Floors_TILESET_A2__125
+  - first:
+      213: 7768325901456071278
+    second: Floors_TILESET_A2__126
+  - first:
+      213: 3854763775696440660
+    second: Floors_TILESET_A2__127
+  - first:
+      213: -8195027178758838291
+    second: Floors_TILESET_A2__128
+  - first:
+      213: -2151411810087641777
+    second: Floors_TILESET_A2__129
+  - first:
+      213: -9035456768344569058
+    second: Floors_TILESET_A2__130
+  - first:
+      213: -4072951874327715839
+    second: Floors_TILESET_A2__131
+  - first:
+      213: -4938585505771003373
+    second: Floors_TILESET_A2__132
+  - first:
+      213: 1236674489030288966
+    second: Floors_TILESET_A2__133
+  - first:
+      213: 8590736998469478964
+    second: Floors_TILESET_A2__134
+  - first:
+      213: 3820101487976428278
+    second: Floors_TILESET_A2__135
+  - first:
+      213: 9124972401491427916
+    second: Floors_TILESET_A2__136
+  - first:
+      213: 3886327328074106020
+    second: Floors_TILESET_A2__137
+  - first:
+      213: -281516306954845584
+    second: Floors_TILESET_A2__138
+  - first:
+      213: 3946155136261665337
+    second: Floors_TILESET_A2__139
+  - first:
+      213: -5334168511498945506
+    second: Floors_TILESET_A2__140
+  - first:
+      213: 5023787902895611078
+    second: Floors_TILESET_A2__141
+  - first:
+      213: 4107032796375411762
+    second: Floors_TILESET_A2__142
+  - first:
+      213: 2586598226679131184
+    second: Floors_TILESET_A2__143
+  - first:
+      213: -3403793463360413895
+    second: Floors_TILESET_A2__144
+  - first:
+      213: 7815289319789986080
+    second: Floors_TILESET_A2__145
+  - first:
+      213: -5063445236202902381
+    second: Floors_TILESET_A2__146
+  - first:
+      213: -593994560472165211
+    second: Floors_TILESET_A2__147
+  - first:
+      213: 7962399610199105955
+    second: Floors_TILESET_A2__148
+  - first:
+      213: -6017934356655016584
+    second: Floors_TILESET_A2__149
+  - first:
+      213: 9052098083596966938
+    second: Floors_TILESET_A2__150
+  - first:
+      213: -1240243954374250393
+    second: Floors_TILESET_A2__151
+  - first:
+      213: 3914789330785924104
+    second: Floors_TILESET_A2__152
+  - first:
+      213: -4455624952465650716
+    second: Floors_TILESET_A2__153
+  - first:
+      213: -5739740674393751330
+    second: Floors_TILESET_A2__154
+  - first:
+      213: 2015816299083150987
+    second: Floors_TILESET_A2__155
+  - first:
+      213: 8683690932459481492
+    second: Floors_TILESET_A2__156
+  - first:
+      213: 6412198508052283167
+    second: Floors_TILESET_A2__157
+  - first:
+      213: 5588116595331923139
+    second: Floors_TILESET_A2__158
+  - first:
+      213: -3967320515252451181
+    second: Floors_TILESET_A2__159
+  - first:
+      213: 1468705222566234559
+    second: Floors_TILESET_A2__160
+  - first:
+      213: 295891422623343949
+    second: Floors_TILESET_A2__161
+  - first:
+      213: 3329275340003509143
+    second: Floors_TILESET_A2__162
+  - first:
+      213: 6660407736584712566
+    second: Floors_TILESET_A2__163
+  - first:
+      213: 8148748769925629394
+    second: Floors_TILESET_A2__164
+  - first:
+      213: -3901025630267978557
+    second: Floors_TILESET_A2__165
+  - first:
+      213: 1891579649334370718
+    second: Floors_TILESET_A2__166
+  - first:
+      213: -8549269591550077935
+    second: Floors_TILESET_A2__167
+  - first:
+      213: 6803948050287513799
+    second: Floors_TILESET_A2__168
+  - first:
+      213: -8337518902002649898
+    second: Floors_TILESET_A2__169
+  - first:
+      213: 2865133936066044819
+    second: Floors_TILESET_A2__170
+  - first:
+      213: -802792076217158692
+    second: Floors_TILESET_A2__171
+  - first:
+      213: 862089601512821054
+    second: Floors_TILESET_A2__172
+  - first:
+      213: -3920385911050690583
+    second: Floors_TILESET_A2__173
+  - first:
+      213: 459803608725061851
+    second: Floors_TILESET_A2__174
+  - first:
+      213: -25082108494354652
+    second: Floors_TILESET_A2__175
+  - first:
+      213: 6146750792748903079
+    second: Floors_TILESET_A2__176
+  - first:
+      213: 2942241909791212107
+    second: Floors_TILESET_A2__177
+  - first:
+      213: 3722714728400412730
+    second: Floors_TILESET_A2__178
+  - first:
+      213: 3818445097509752121
+    second: Floors_TILESET_A2__179
+  - first:
+      213: -1150184772235564970
+    second: Floors_TILESET_A2__180
+  - first:
+      213: 5826690265739974650
+    second: Floors_TILESET_A2__181
+  - first:
+      213: 533519526703105494
+    second: Floors_TILESET_A2__182
+  - first:
+      213: 2571283859056278130
+    second: Floors_TILESET_A2__183
+  - first:
+      213: 7803397951339862990
+    second: Floors_TILESET_A2__184
+  - first:
+      213: 7327312807900364305
+    second: Floors_TILESET_A2__185
+  - first:
+      213: -3304024867560040876
+    second: Floors_TILESET_A2__186
+  - first:
+      213: 8630507355733003572
+    second: Floors_TILESET_A2__187
+  - first:
+      213: 789397665901559137
+    second: Floors_TILESET_A2__188
+  - first:
+      213: -2066025192599485795
+    second: Floors_TILESET_A2__189
+  - first:
+      213: -1372409820481582801
+    second: Floors_TILESET_A2__190
+  - first:
+      213: 7909807815640971868
+    second: Floors_TILESET_A2__191
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2145613b97308e0800000000000000
+      internalID: -1728404021899422978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b06e0e9a6a0b540800000000000000
+      internalID: 5021696833070959372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eb26669dcbd03e0800000000000000
+      internalID: -2085803410490999293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55251368bc33ff60800000000000000
+      internalID: 8066858120184669535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab6314fdb1de960800000000000000
+      internalID: 7632787589148621318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b69c119bf9eda50800000000000000
+      internalID: 6547846525459458929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c992faf096c550800000000000000
+      internalID: 6180786946098972912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98065b086971b560800000000000000
+      internalID: 7327771556482255003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5387f126da7ba0800000000000000
+      internalID: -6090320104690328500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4085c520e4f75c00800000000000000
+      internalID: 889448694972514383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b288496413b29ea0800000000000000
+      internalID: -5867430464263257423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f127b2aaec88310800000000000000
+      internalID: 1407602113821941526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a2d92849bb67c0800000000000000
+      internalID: -4076961318063397819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d47386a3c8a4770800000000000000
+      internalID: 8595837021274459411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e77b94ed861a1d60800000000000000
+      internalID: 7861620898210215907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c224798f2f865e0800000000000000
+      internalID: -1916014491942638504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe21b31b022379a0800000000000000
+      internalID: -6236603628007641412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dbef9ff62ec9020800000000000000
+      internalID: 2350002076144024942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf773b0f746c9c0800000000000000
+      internalID: -3907356527568618423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e8cd260617f2550800000000000000
+      internalID: 6138249475918696082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de0e6e3c1c2f110800000000000000
+      internalID: 1293309090145037688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc388a5ed1e0fa6c0800000000000000
+      internalID: -4130066811705588788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21708c1109e97dc80800000000000000
+      internalID: -8297989446796048622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9608a2ce0fa93b730800000000000000
+      internalID: 4013722052462280809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342fdc44f4d70d30800000000000000
+      internalID: 4397717706877379634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5164dfc51134b80800000000000000
+      internalID: -8411860587914062419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df71680bb333c100800000000000000
+      internalID: 127002092889014225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b3d25188e7cb30800000000000000
+      internalID: 4307667210741200112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839eac1dea825eb60800000000000000
+      internalID: 7774665063034186040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d1040300b17d0d0800000000000000
+      internalID: -3398217706204291807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9914ef2a25b4b90800000000000000
+      internalID: -7256615514573530628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c11a3166b3fc40800000000000000
+      internalID: 5544976094925539746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe22ca7f8f1e470800000000000000
+      internalID: 8422286520788119501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce37e38f4985310800000000000000
+      internalID: 1394027878591753407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63d499f28d7d7b0800000000000000
+      internalID: -5199449545828911432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e794b64aa58d690800000000000000
+      internalID: -7577206710829744519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14369d95584883b0800000000000000
+      internalID: -5510074611534515172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80909257a952bc1d0800000000000000
+      internalID: -3329526154189534968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c59ca6a0f89740800000000000000
+      internalID: 5159137971803637050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6083859d2798906d0800000000000000
+      internalID: -3023734548436862970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac443dcfb4b6d40800000000000000
+      internalID: 5578636112676833822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b27572329693eb0800000000000000
+      internalID: -4739641533125940473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7429751e0564e310800000000000000
+      internalID: 1433381692574868606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bec3b95c56cb8dc0800000000000000
+      internalID: -3635594174227296589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb09787417d22b40800000000000000
+      internalID: 5414126184973274038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92230058253462710800000000000000
+      internalID: 1668094733685109289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fff25e22eaf23930800000000000000
+      internalID: 4121632458344169464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9305f7cccb592c1b0800000000000000
+      internalID: -5637779145397153735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ff88f1807a40c0800000000000000
+      internalID: -4590733166627524556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55f190cb500a960800000000000000
+      internalID: 7611089675421177310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f59b969c62814ba0800000000000000
+      internalID: -6106456216842824202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578ecc4caae291140800000000000000
+      internalID: 4690831797864163445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1243f0c4dd8aa4960800000000000000
+      internalID: 7587062190676325409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9870137cdaead0800000000000000
+      internalID: -2672081042135277948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113a7dc32d3d9aff0800000000000000
+      internalID: -24255423056469231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a0e06da4c15070800000000000000
+      internalID: 8093466254295213398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92463ebcb9410f20800000000000000
+      internalID: 3387069469753229981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc69b3a2d179830b0800000000000000
+      internalID: -5748678772820044084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e479db95e89f6a0800000000000000
+      internalID: -6414939678128517563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4537a4d3f353130800000000000000
+      internalID: 3545809814098760870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad389efcee9be0a0800000000000000
+      internalID: -6851207667393217111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563d2672c7c014fb0800000000000000
+      internalID: -4665434011602857115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92361425acfa960c0800000000000000
+      internalID: -4581937862374497495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b65bd5abf44a8c0800000000000000
+      internalID: -3988975708088734895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5087f176531e310800000000000000
+      internalID: 1432484873506391473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601fe43ff33507530800000000000000
+      internalID: 3850669215531856134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9f57e56cbf52ab0800000000000000
+      internalID: -5033340179109774944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28082c4dfb5c8e0800000000000000
+      internalID: -1673720765981097223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3c08e7561f9480800000000000000
+      internalID: -8890362572594987518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230f7389d8fdb730800000000000000
+      internalID: 4016640055782081312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbf075ffcbaccea0800000000000000
+      internalID: -5851112906196714556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa1bb6341b23490800000000000000
+      internalID: -7767951504132953350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba0822513ac0b790800000000000000
+      internalID: -7516285464900793679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c491b5ba5fae330800000000000000
+      internalID: 3741072556801215619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6a69ca6039ed2f0800000000000000
+      internalID: -946157214826584408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe78df0e4a86710800000000000000
+      internalID: 1686779346683424651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bf638035c4654b0800000000000000
+      internalID: -5452086379381589237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4800a9ee39ed7e330800000000000000
+      internalID: 3740202742499115140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed702b47b5f9320800000000000000
+      internalID: 2566870869385666195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0036346e9be7100800000000000000
+      internalID: 107727839727648935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36d2db7f32750590800000000000000
+      internalID: -7708629570188814786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175808db581155350800000000000000
+      internalID: 6004724944276063601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bd117ad6b60a3f0800000000000000
+      internalID: -891594607520785538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec44f50229cff0d0800000000000000
+      internalID: -3386767246793356062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313492e2c800fb9e0800000000000000
+      internalID: -1603562340250729709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df27297cf11d6d7a0800000000000000
+      internalID: -6352660289937050883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773f435eefd4d0490800000000000000
+      internalID: -7778475224236493961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3501b5ac8dbc5dcc0800000000000000
+      internalID: -3686816587964542893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecbebfeeaa997f80800000000000000
+      internalID: -8108279577966625554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1348ae2c36ae4be0800000000000000
+      internalID: -1491071649202027747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296d5c81c88e7ce20800000000000000
+      internalID: 3370918534518789778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aba3eed38e5f5a0800000000000000
+      internalID: -6488024335469856203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfdea91a0e6ee760800000000000000
+      internalID: 7489044220023332788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2673685579e5fe70800000000000000
+      internalID: 9148474908276389421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9ec116b99a71050800000000000000
+      internalID: 5771267932312889770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3aa2a65023bc70800000000000000
+      internalID: 8985561238002613377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d805cad28b82cf50800000000000000
+      internalID: 6900230973217376464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2835c0acb87a7add0800000000000000
+      internalID: -2474825251384700030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e509cb290cf9ef230800000000000000
+      internalID: 3674549995425271902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952ebd69dd4ce430800000000000000
+      internalID: 3813508580720387473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4fd5eb5798afd00800000000000000
+      internalID: 1007268605468734643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254614ec622b20d20800000000000000
+      internalID: 3243350561399071826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a77d0465e51670800000000000000
+      internalID: 8508959288871854834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb603e9861bee3f0800000000000000
+      internalID: -869562615147238468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fbad03d7388e040800000000000000
+      internalID: 4677132786738052940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d49f9987456f2e0800000000000000
+      internalID: -2092392099910955742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e481dd1be4a268e0800000000000000
+      internalID: -1701616379468086041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc50a8282b52b40800000000000000
+      internalID: 5414930400714017808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c00bc3c878a11c0800000000000000
+      internalID: -4532161038611641213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5712b058b761603f0800000000000000
+      internalID: -935035152863911563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42351711542bcb30800000000000000
+      internalID: 4308577399208227405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb2fd02f0797430800000000000000
+      internalID: 3781177547072650958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad36925e663288f20800000000000000
+      internalID: 3425026441453593562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4469f6dce99450800000000000000
+      internalID: 6096163978673933914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b699fda094cb30800000000000000
+      internalID: 4306726220564182377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc840563ee6b7c50800000000000000
+      internalID: 6664041996556209348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08375af4b9dc111c0800000000000000
+      internalID: -4534617282845510784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3a6ecdc3239490800000000000000
+      internalID: -7740803967681413448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e933f45a8d0a420800000000000000
+      internalID: 2639347586149097070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3d9754d8ccfeb0800000000000000
+      internalID: -4684648698043614009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2b55e8b3126860800000000000000
+      internalID: 7521596012505018298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20b1d8fda5b92110800000000000000
+      internalID: 1236719331498373164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748b263ad3752210800000000000000
+      internalID: 1307578647869883507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1fb462f2f67a7b0800000000000000
+      internalID: -5213075795361402396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7baf737e748730800000000000000
+      internalID: 4000461403540126976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa13ef5a33fbab680800000000000000
+      internalID: -8738461898409889361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a51cfbf33aecb60800000000000000
+      internalID: 7768325901456071278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d0e670b3fde7530800000000000000
+      internalID: 3854763775696440660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76865333a654e80800000000000000
+      internalID: -8195027178758838291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d552e7b56a422e0800000000000000
+      internalID: -2151411810087641777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4c6be0fb9b9280800000000000000
+      internalID: -9035456768344569058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1006f6789d7f977c0800000000000000
+      internalID: -4072951874327715839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31260a3f5ae967bb0800000000000000
+      internalID: -4938585505771003373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646207545ec892110800000000000000
+      internalID: 1236674489030288966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2490d8cd683770800000000000000
+      internalID: 8590736998469478964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2b6c4401ab30530800000000000000
+      internalID: 3820101487976428278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42c3209d0a62ae70800000000000000
+      internalID: 9124972401491427916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a400ce3d120fe530800000000000000
+      internalID: 3886327328074106020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720a7d096ad71cf0800000000000000
+      internalID: -281516306954845584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b575503f83c630800000000000000
+      internalID: 3946155136261665337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf70c100a39f5b0800000000000000
+      internalID: -5334168511498945506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc5ff20b7418b540800000000000000
+      internalID: 5023787902895611078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce5dc719c1ff830800000000000000
+      internalID: 4107032796375411762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c6dddf16175e320800000000000000
+      internalID: 2586598226679131184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f1b9f01eb43c0d0800000000000000
+      internalID: -3403793463360413895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0218cfaaa3c757c60800000000000000
+      internalID: 7815289319789986080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6b7c82670bb9b0800000000000000
+      internalID: -5063445236202902381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4da882815b1c7f0800000000000000
+      internalID: -593994560472165211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a160a54240208e60800000000000000
+      internalID: 7962399610199105955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87575f546900c7ca0800000000000000
+      internalID: -6017934356655016584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c9ac83f338f9d70800000000000000
+      internalID: 9052098083596966938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76072b0d1b4c9cee0800000000000000
+      internalID: -1240243954374250393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804fbf7a720245630800000000000000
+      internalID: 3914789330785924104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb0bef66b07a22c0800000000000000
+      internalID: -4455624952465650716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed046ef54485850b0800000000000000
+      internalID: -5739740674393751330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b863b476e3e99fb10800000000000000
+      internalID: 2015816299083150987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499278815eaa28870800000000000000
+      internalID: 8683690932459481492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ffebdd194bcf850800000000000000
+      internalID: 6412198508052283167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7934bf6afc8d40800000000000000
+      internalID: 5588116595331923139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398024ad20f31f8c0800000000000000
+      internalID: -3967320515252451181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb942de4e93e16410800000000000000
+      internalID: 1468705222566234559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45ac816ea73b1400800000000000000
+      internalID: 295891422623343949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79380605846f33e20800000000000000
+      internalID: 3329275340003509143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671356e4c858e6c50800000000000000
+      internalID: 6660407736584712566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5815315db261170800000000000000
+      internalID: 8148748769925629394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccce289bd5ccd9c0800000000000000
+      internalID: -3901025630267978557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91eee64bad304a10800000000000000
+      internalID: 1891579649334370718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114db9a3a94ea5980800000000000000
+      internalID: -8549269591550077935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0599fe3ba7c6e50800000000000000
+      internalID: 6803948050287513799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f6029bbe2b4c80800000000000000
+      internalID: -8337518902002649898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393222d722003c720800000000000000
+      internalID: 2865133936066044819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3f39c2cd8ebd4f0800000000000000
+      internalID: -802792076217158692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31dabecce1c6fb00800000000000000
+      internalID: 862089601512821054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9065f8cdf799c0800000000000000
+      internalID: -3920385911050690583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0008c22fc816600800000000000000
+      internalID: 459803608725061851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427e9f884f3e6aff0800000000000000
+      internalID: -25082108494354652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa26a47745ad4550800000000000000
+      internalID: 6146750792748903079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424f54ad61f4d820800000000000000
+      internalID: 2942241909791212107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30eb6a525db9a330800000000000000
+      internalID: 3722714728400412730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d866fc597ddf430800000000000000
+      internalID: 3818445097509752121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e5d82b09b900f0800000000000000
+      internalID: -1150184772235564970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af758a1fcef8cd050800000000000000
+      internalID: 5826690265739974650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d58fddce21776700800000000000000
+      internalID: 533519526703105494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27abebbeb090fa320800000000000000
+      internalID: 2571283859056278130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9f92b71d3b4c60800000000000000
+      internalID: 7803397951339862990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e32115d28dfa560800000000000000
+      internalID: 7327312807900364305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d60073eeb522d0800000000000000
+      internalID: -3304024867560040876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d8cd1b6b8b5c770800000000000000
+      internalID: 8630507355733003572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db596aef084fa00800000000000000
+      internalID: 789397665901559137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92891a98010453e0800000000000000
+      internalID: -2066025192599485795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2900f32a8834fce0800000000000000
+      internalID: -1372409820481582801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_TILESET_A2__191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a73e4ec4845cd60800000000000000
+      internalID: 7909807815640971868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Floors_TILESET_A2__58: -6414939678128517563
+      Floors_TILESET_A2__143: 2586598226679131184
+      Floors_TILESET_A2__184: 7803397951339862990
+      Floors_TILESET_A2__51: 4690831797864163445
+      Floors_TILESET_A2__167: -8549269591550077935
+      Floors_TILESET_A2__16: -6236603628007641412
+      Floors_TILESET_A2__173: -3920385911050690583
+      Floors_TILESET_A2__83: -3386767246793356062
+      Floors_TILESET_A2__144: -3403793463360413895
+      Floors_TILESET_A2__100: 1007268605468734643
+      Floors_TILESET_A2__71: -7767951504132953350
+      Floors_TILESET_A2__84: -1603562340250729709
+      Floors_TILESET_A2__72: -7516285464900793679
+      Floors_TILESET_A2__102: 8508959288871854834
+      Floors_TILESET_A2__22: -8297989446796048622
+      Floors_TILESET_A2__119: -4684648698043614009
+      Floors_TILESET_A2__25: -8411860587914062419
+      Floors_TILESET_A2__127: 3854763775696440660
+      Floors_TILESET_A2__52: 7587062190676325409
+      Floors_TILESET_A2__185: 7327312807900364305
+      Floors_TILESET_A2__0: -1728404021899422978
+      Floors_TILESET_A2__15: -1916014491942638504
+      Floors_TILESET_A2__114: 4306726220564182377
+      Floors_TILESET_A2__139: 3946155136261665337
+      Floors_TILESET_A2__27: 4307667210741200112
+      Floors_TILESET_A2__19: 6138249475918696082
+      Floors_TILESET_A2__129: -2151411810087641777
+      Floors_TILESET_A2__49: 7611089675421177310
+      Floors_TILESET_A2__59: 3545809814098760870
+      Floors_TILESET_A2__158: 5588116595331923139
+      Floors_TILESET_A2__12: -4076961318063397819
+      Floors_TILESET_A2__69: 4016640055782081312
+      Floors_TILESET_A2__176: 6146750792748903079
+      Floors_TILESET_A2__38: 5159137971803637050
+      Floors_TILESET_A2__32: 8422286520788119501
+      Floors_TILESET_A2__92: 7489044220023332788
+      Floors_TILESET_A2__7: 7327771556482255003
+      Floors_TILESET_A2__106: -1701616379468086041
+      Floors_TILESET_A2__96: 6900230973217376464
+      Floors_TILESET_A2__21: -4130066811705588788
+      Floors_TILESET_A2__6: 6180786946098972912
+      Floors_TILESET_A2__64: 1432484873506391473
+      Floors_TILESET_A2__124: 4000461403540126976
+      Floors_TILESET_A2__79: 107727839727648935
+      Floors_TILESET_A2__189: -2066025192599485795
+      Floors_TILESET_A2__66: -5033340179109774944
+      Floors_TILESET_A2__23: 4013722052462280809
+      Floors_TILESET_A2__85: -6352660289937050883
+      Floors_TILESET_A2__98: 3674549995425271902
+      Floors_TILESET_A2__41: -4739641533125940473
+      Floors_TILESET_A2__104: 4677132786738052940
+      Floors_TILESET_A2__136: 9124972401491427916
+      Floors_TILESET_A2__54: -24255423056469231
+      Floors_TILESET_A2__163: 6660407736584712566
+      Floors_TILESET_A2__74: -946157214826584408
+      Floors_TILESET_A2__117: -7740803967681413448
+      Floors_TILESET_A2__171: -802792076217158692
+      Floors_TILESET_A2__8: -6090320104690328500
+      Floors_TILESET_A2__147: -593994560472165211
+      Floors_TILESET_A2__93: 9148474908276389421
+      Floors_TILESET_A2__138: -281516306954845584
+      Floors_TILESET_A2__182: 533519526703105494
+      Floors_TILESET_A2__77: 3740202742499115140
+      Floors_TILESET_A2__130: -9035456768344569058
+      Floors_TILESET_A2__70: -5851112906196714556
+      Floors_TILESET_A2__14: 7861620898210215907
+      Floors_TILESET_A2__161: 295891422623343949
+      Floors_TILESET_A2__108: -4532161038611641213
+      Floors_TILESET_A2__172: 862089601512821054
+      Floors_TILESET_A2__157: 6412198508052283167
+      Floors_TILESET_A2__73: 3741072556801215619
+      Floors_TILESET_A2__86: -7778475224236493961
+      Floors_TILESET_A2__17: 2350002076144024942
+      Floors_TILESET_A2__26: 127002092889014225
+      Floors_TILESET_A2__133: 1236674489030288966
+      Floors_TILESET_A2__140: -5334168511498945506
+      Floors_TILESET_A2__111: 3781177547072650958
+      Floors_TILESET_A2__153: -4455624952465650716
+      Floors_TILESET_A2__156: 8683690932459481492
+      Floors_TILESET_A2__50: -6106456216842824202
+      Floors_TILESET_A2__121: 1236719331498373164
+      Floors_TILESET_A2__18: -3907356527568618423
+      Floors_TILESET_A2__154: -5739740674393751330
+      Floors_TILESET_A2__47: -5637779145397153735
+      Floors_TILESET_A2__160: 1468705222566234559
+      Floors_TILESET_A2__9: 889448694972514383
+      Floors_TILESET_A2__34: -5199449545828911432
+      Floors_TILESET_A2__61: -4665434011602857115
+      Floors_TILESET_A2__105: -2092392099910955742
+      Floors_TILESET_A2__126: 7768325901456071278
+      Floors_TILESET_A2__31: 5544976094925539746
+      Floors_TILESET_A2__107: 5414930400714017808
+      Floors_TILESET_A2__63: -3988975708088734895
+      Floors_TILESET_A2__188: 789397665901559137
+      Floors_TILESET_A2__101: 3243350561399071826
+      Floors_TILESET_A2__137: 3886327328074106020
+      Floors_TILESET_A2__132: -4938585505771003373
+      Floors_TILESET_A2__118: 2639347586149097070
+      Floors_TILESET_A2__57: -5748678772820044084
+      Floors_TILESET_A2__169: -8337518902002649898
+      Floors_TILESET_A2__122: 1307578647869883507
+      Floors_TILESET_A2__151: -1240243954374250393
+      Floors_TILESET_A2__53: -2672081042135277948
+      Floors_TILESET_A2__67: -1673720765981097223
+      Floors_TILESET_A2__152: 3914789330785924104
+      Floors_TILESET_A2__183: 2571283859056278130
+      Floors_TILESET_A2__99: 3813508580720387473
+      Floors_TILESET_A2__131: -4072951874327715839
+      Floors_TILESET_A2__37: -3329526154189534968
+      Floors_TILESET_A2__164: 8148748769925629394
+      Floors_TILESET_A2__10: -5867430464263257423
+      Floors_TILESET_A2__135: 3820101487976428278
+      Floors_TILESET_A2__88: -8108279577966625554
+      Floors_TILESET_A2__128: -8195027178758838291
+      Floors_TILESET_A2__115: 6664041996556209348
+      Floors_TILESET_A2__35: -7577206710829744519
+      Floors_TILESET_A2__60: -6851207667393217111
+      Floors_TILESET_A2__174: 459803608725061851
+      Floors_TILESET_A2__116: -4534617282845510784
+      Floors_TILESET_A2__78: 2566870869385666195
+      Floors_TILESET_A2__36: -5510074611534515172
+      Floors_TILESET_A2__2: -2085803410490999293
+      Floors_TILESET_A2__148: 7962399610199105955
+      Floors_TILESET_A2__46: 4121632458344169464
+      Floors_TILESET_A2__142: 4107032796375411762
+      Floors_TILESET_A2__113: 6096163978673933914
+      Floors_TILESET_A2__112: 3425026441453593562
+      Floors_TILESET_A2__45: 1668094733685109289
+      Floors_TILESET_A2__166: 1891579649334370718
+      Floors_TILESET_A2__150: 9052098083596966938
+      Floors_TILESET_A2__28: 7774665063034186040
+      Floors_TILESET_A2__68: -8890362572594987518
+      Floors_TILESET_A2__48: -4590733166627524556
+      Floors_TILESET_A2__177: 2942241909791212107
+      Floors_TILESET_A2__179: 3818445097509752121
+      Floors_TILESET_A2__89: -1491071649202027747
+      Floors_TILESET_A2__87: -3686816587964542893
+      Floors_TILESET_A2__44: 5414126184973274038
+      Floors_TILESET_A2__168: 6803948050287513799
+      Floors_TILESET_A2__103: -869562615147238468
+      Floors_TILESET_A2__190: -1372409820481582801
+      Floors_TILESET_A2__159: -3967320515252451181
+      Floors_TILESET_A2__134: 8590736998469478964
+      Floors_TILESET_A2__123: -5213075795361402396
+      Floors_TILESET_A2__181: 5826690265739974650
+      Floors_TILESET_A2__11: 1407602113821941526
+      Floors_TILESET_A2__91: -6488024335469856203
+      Floors_TILESET_A2__191: 7909807815640971868
+      Floors_TILESET_A2__109: -935035152863911563
+      Floors_TILESET_A2__178: 3722714728400412730
+      Floors_TILESET_A2__42: 1433381692574868606
+      Floors_TILESET_A2__120: 7521596012505018298
+      Floors_TILESET_A2__125: -8738461898409889361
+      Floors_TILESET_A2__3: 8066858120184669535
+      Floors_TILESET_A2__110: 4308577399208227405
+      Floors_TILESET_A2__80: -7708629570188814786
+      Floors_TILESET_A2__95: 8985561238002613377
+      Floors_TILESET_A2__43: -3635594174227296589
+      Floors_TILESET_A2__62: -4581937862374497495
+      Floors_TILESET_A2__97: -2474825251384700030
+      Floors_TILESET_A2__65: 3850669215531856134
+      Floors_TILESET_A2__81: 6004724944276063601
+      Floors_TILESET_A2__175: -25082108494354652
+      Floors_TILESET_A2__76: -5452086379381589237
+      Floors_TILESET_A2__55: 8093466254295213398
+      Floors_TILESET_A2__30: -7256615514573530628
+      Floors_TILESET_A2__90: 3370918534518789778
+      Floors_TILESET_A2__5: 6547846525459458929
+      Floors_TILESET_A2__165: -3901025630267978557
+      Floors_TILESET_A2__141: 5023787902895611078
+      Floors_TILESET_A2__155: 2015816299083150987
+      Floors_TILESET_A2__24: 4397717706877379634
+      Floors_TILESET_A2__39: -3023734548436862970
+      Floors_TILESET_A2__75: 1686779346683424651
+      Floors_TILESET_A2__180: -1150184772235564970
+      Floors_TILESET_A2__145: 7815289319789986080
+      Floors_TILESET_A2__33: 1394027878591753407
+      Floors_TILESET_A2__20: 1293309090145037688
+      Floors_TILESET_A2__186: -3304024867560040876
+      Floors_TILESET_A2__4: 7632787589148621318
+      Floors_TILESET_A2__146: -5063445236202902381
+      Floors_TILESET_A2__162: 3329275340003509143
+      Floors_TILESET_A2__82: -891594607520785538
+      Floors_TILESET_A2__29: -3398217706204291807
+      Floors_TILESET_A2__1: 5021696833070959372
+      Floors_TILESET_A2__40: 5578636112676833822
+      Floors_TILESET_A2__149: -6017934356655016584
+      Floors_TILESET_A2__170: 2865133936066044819
+      Floors_TILESET_A2__94: 5771267932312889770
+      Floors_TILESET_A2__56: 3387069469753229981
+      Floors_TILESET_A2__13: 8595837021274459411
+      Floors_TILESET_A2__187: 8630507355733003572
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
