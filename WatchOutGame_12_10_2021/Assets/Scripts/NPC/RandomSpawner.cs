@@ -15,7 +15,7 @@ public class RandomSpawner : MonoBehaviour
     void Start()
     {
         Vector2 position = npcSpawner.transform.position;
-        for (int i = 0; i < numberOfNPC; i++) 
+        for (int i = 0; i < 3; i++) 
         {
             Vector2 randomPos = position + Random.insideUnitCircle * radius ;
             Instantiate(npc, randomPos, Quaternion.identity);
