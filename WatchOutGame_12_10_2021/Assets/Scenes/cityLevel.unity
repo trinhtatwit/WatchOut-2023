@@ -22916,6 +22916,11 @@ PrefabInstance:
       propertyPath: questReward
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 6980475080631188146, guid: 7ec7bda2d159f024cb3125a6cc21194d,
+        type: 3}
+      propertyPath: startQuestText.Array.data[1]
+      value: Can you go pick me up a N95 mask from the pharmacy?
+      objectReference: {fileID: 0}
     - target: {fileID: 6980475080838999396, guid: 7ec7bda2d159f024cb3125a6cc21194d,
         type: 3}
       propertyPath: playerScore
