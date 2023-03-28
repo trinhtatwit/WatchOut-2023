@@ -171,7 +171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneName: schoolLevel
-  playerPosition: {x: -4.5, y: 7}
+  playerPosition: {x: 0, y: -5}
   playerStorage: {fileID: 11400000, guid: d780117b6009e1e49ae658c1059e1168, type: 2}
   playerInventory: {fileID: 0}
   initialize: 0
