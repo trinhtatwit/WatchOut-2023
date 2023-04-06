@@ -4620,6 +4620,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: Resume
       objectReference: {fileID: 0}
+    - target: {fileID: 1329899316534406460, guid: e67f700b4fc2783419504d8163ca05e9,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2408952589579364606, guid: e67f700b4fc2783419504d8163ca05e9,
         type: 3}
       propertyPath: m_AnchorMax.x
