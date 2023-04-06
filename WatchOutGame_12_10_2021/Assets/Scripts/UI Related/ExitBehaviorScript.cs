@@ -20,7 +20,7 @@ public class ExitBehaviorScript : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            if(PlayerStats.getMoney() >= 15){ //this is a really roundabout way to figure out if quests 0 and 1 are completed
+            if(PlayerStats.getMoney() >= 1){ //this is a really roundabout way to figure out if quests 0 and 1 are completed
                 Debug.Log("unlocked door");
                 canLeave = true;
             }
