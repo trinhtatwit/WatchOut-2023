@@ -10749,6 +10749,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1213668431905985116, guid: dc3362c0f1493a24fab25dea1e729a54,
         type: 3}
+      propertyPath: endQuestText.Array.data[1]
+      value: Oh! Here's $1 for whatever you need to buy.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1213668431905985116, guid: dc3362c0f1493a24fab25dea1e729a54,
+        type: 3}
       propertyPath: startQuestAudio.Array.size
       value: 3
       objectReference: {fileID: 0}
@@ -11366,8 +11371,8 @@ MonoBehaviour:
   - Go to the bathroom and use the sink to wash your hands.
   endQuestText:
   - Great job! Your hands are so clean now.
-  - Here's $10 for your day, make sure to talk to your dad before you leave!
-  questReward: 10
+  - Here's $1 for your day, make sure to talk to your dad before you leave!
+  questReward: 1
 --- !u!1001 &4604990026443624711
 PrefabInstance:
   m_ObjectHideFlags: 0

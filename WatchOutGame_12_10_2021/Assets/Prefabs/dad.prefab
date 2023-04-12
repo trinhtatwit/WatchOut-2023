@@ -29,6 +29,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 0}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6376682860490921569}
   m_RootOrder: 0
@@ -44,6 +45,7 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -148,6 +150,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.573, y: -4.137, z: 0}
   m_LocalScale: {x: 0.61825, y: 0.61825, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6376682860390860284}
   - {fileID: 6376682860525172731}
@@ -166,6 +169,7 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -241,7 +245,6 @@ MonoBehaviour:
   pressE: {fileID: 0}
   displayedText: {fileID: 0}
   dialogue: []
-  dialogueAudio: []
   typingSpeed: 0
   dialogBox: {fileID: 0}
   nextButton: {fileID: 0}
@@ -261,8 +264,7 @@ MonoBehaviour:
   quest: {fileID: 1213668431905985116}
   completedQuest: 0
   dialogueManager: {fileID: 5133045985221758002}
-  exit: {fileID: 0}
-  exit2: {fileID: 0}
+  nextQuests: []
 --- !u!61 &6376682860490921574
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -312,7 +314,7 @@ Rigidbody2D:
   m_Constraints: 4
 --- !u!95 &7580785683737986242
 Animator:
-  serializedVersion: 3
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -325,6 +327,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
@@ -384,6 +387,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6376682860490921569}
   m_RootOrder: 1
@@ -404,6 +408,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -520,11 +525,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
+  _SortingLayer: 0
+  _SortingLayerID: 0
+  _SortingOrder: 1
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 6376682860525172709}
   m_maskType: 0
-  _SortingLayerID: 0
-  _SortingOrder: 1
 --- !u!58 &6376682860525172711
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -568,6 +574,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -6.748089, y: -2.2094831, z: -1910.9438}
   m_LocalScale: {x: 2, y: 2, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6376682860490921569}
   m_RootOrder: 2
@@ -590,10 +597,7 @@ MonoBehaviour:
   - Before you head out, it's important for you to wear a mask.
   - It will help reduce the risk of catching and spreading the virus.
   - Go into your room and grab your mask!
-  startQuestAudio: []
   endQuestText:
   - Looking great! You're all ready to head out!
   - Oh! Here's $5 for whatever you need to buy.
-  endQuestAudio: []
-  questReward: 5
-  questManager: {fileID: 7187507193410436180}
+  questReward: 1

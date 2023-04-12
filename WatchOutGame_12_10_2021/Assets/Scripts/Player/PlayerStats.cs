@@ -7,7 +7,7 @@ public static class PlayerStats
 {
     //Stats
     public static float health = 50f;
-    public static float money = 10;
+    public static float money = 0;
     public static float points = 0;
     public static float stress = 0;
     
